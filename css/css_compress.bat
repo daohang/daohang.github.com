@@ -1,0 +1,1 @@
+csstidy.exe style.css --template=highest --remove_last_;=true style.css
