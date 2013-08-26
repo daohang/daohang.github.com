@@ -182,7 +182,7 @@
 	right:0px;
 }
 
-.col2,.col3,.col4
+.col2,.col3,.col4,.col5
 {
 	position:relative;
 	width:100%;
@@ -190,7 +190,7 @@
 	padding:8px;
 }
 
-.col1 li,.col2 li,.col3 li,.col4 li
+.col1 li,.col2 li,.col3 li,.col4 li,.col5 li
 {
 	position:relative;
 	border-right:1px solid #ccc;
@@ -214,6 +214,17 @@
 	width:31%;
 	padding:5px 10px;
 	margin:0;
+}
+
+.col5 li
+{
+	width:18.5%;
+	height:40px;	
+	float:left;
+	margin:0;
+	white-space:nowrap;
+	padding:5px;
+	border: 1px solid transparent;
 }
 
 .col4 li
