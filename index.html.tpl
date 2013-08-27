@@ -7,8 +7,8 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<meta http-equiv="Content-Language" content="zh-CN">	
-	<link rel="stylesheet" type="text/css" media="all" href="http://127.0.0.1/daohang/css/style.css"/>
-	<link rel="shortcut icon" href="http://127.0.0.1/movie/images/favicon.ico" type="image/x-icon">
+	<link rel="stylesheet" type="text/css" media="all" href="./css/style.css"/>
+	<link rel="shortcut icon" href="./images/favicon.ico" type="image/x-icon">
 	<script type="text/javascript">
 	eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('m.1D("1U");C 1W(n,D){9 E=18;9 j=r J();j.1X(j.1f()+E*1e);m.A=n+"="+1d(D)+";1b="+j.1h()+"; 1i=/"};C q(n){9 s=m.A.1m(r 1l("(^| )"+n+"=([^;]*)(;|$)"));b(s!=g)B 1k(s[2]);B g};9 3=\'.5 Z 4 ,.F{G:L(K=X);}\';9 3=\'.F{G:L(K=10);}\';9 d=q("d");b(d==g){9 z=r J();9 p=z.15();b(p>=14||p<=6)d=\'I\';S d=\'1p\'}b(d==\'I\'){3+=\' #M{8:#e;N:1O 1M #f}\';3+=\' 1L{8:#e;7:#f}\';3+=\' a{7:#f;8:1I}\';3+=\' a:t {7: #1J;}\';3+=\' .1K{8:1P(1Q://1V.0.0.1/1T/1R/1S.1H) 1G-1w;}\';3+=\' #1x{8:#e;}\';3+=\' #1v{8:#e;}\';3+=\' #1u-M{N:1t;}\';3+=\' .1y,.1z,.1E{7:#w}\';3+=\' .x-v-y{7:#w}.x-v-y:i{7:#u}\';3+=\' .1B{7:#13}\';3+=\' .1A , .Y a {7:#u}\';3+=\' #1a{k-h:O}\';3+=\' #1q{k-h:P}\';3+=\' .H,.H:1j{8:#e;7:#f;}\';3+=\' .5 4 a, .5 4 a:R, .5 4 a:t{7:#f;}\';3+=\' .5 4 4 a, .5 4 4 a:R, .5 4 4 a:t,.5 4 a:i,.5 4 a:1C{8:#e;}\';3+=\' .5 4 a:i,.5 4 4 a:i{8:#1F;7:#1s}\'}9 c=q("c");b(c==g){b(1r.1N.l>=o)c=\'o\';S c=\'12\'}b(c==\'o\'){3+=\' .17{l: 16;}\';3+=\' .11{l: V;}\';3+=\' .U{l: T;}\';3+=\' #W{k-h:O}\';3+=\' #19{k-h:P}\'}b(3!=g){3=\'<Q 1o="1n/1c">\'+3+\'</Q>\';m.1g(3)}',62,122,'|||style_need|li|topnav||color|background|var||if|movie002_width|movie002_day|383838|B6AA7B|null|weight|hover|exp|font|width|document|name|1280|hour|getCookie|new|arr|visited|bbb|topic|999|post|area|now|cookie|return|function|value|Days|celeimg_title|filter|searchinput|night|Date|opacity|alpha|wrapper|border|700|normal|style|link|else|794px|width_3|1054px|movie002_width_2|90|entry|ul|50|width_2|1024|D04230|20|getHours|1080px|width_1|30|movie002_width_1|movie002_day_2|expires|css|escape|86400000|getTime|write|toGMTString|path|focus|unescape|RegExp|match|text|type|day|movie002_day_1|window|fff|none|topics|global_nav|repeat|service_list|moviemeta|celeimg_name|titlecontent|moviedate|active|createElement|colormeta|52686F|no|gif|transparent|447FA8|order|body|solid|screen|1px|url|http|images|logonight_8|movie|imgdao|127|SetCookie|setTime'.split('|'),0,{}))
 
@@ -62,7 +62,7 @@
 <div id="global_nav">
 	<div id="global_nav_inner" class="width_1">
 		<div class="order">			
-			<a href="http://127.0.0.1/movie/index.html" title="二手电影-影视资源 搜集分享"><h3>&nbsp;</h3></a>
+			<a href="index.html" title="二手电影-影视资源 搜集分享"><h3>&nbsp;</h3></a>
 		</div>	
 		<div class="topnav menunav">
 			<div>
@@ -212,14 +212,26 @@
 								<div class="topic-detail">
 									<div class="col5">
 										<ol>
+											<li style="width:50px">下载类：</li>
+											<li><img src="images/xunlei.gif"/><div class="lt45v2"><a href="http://www.yyets.com" target="_blank" >迅雷</a></div><div class="hotmeta1 lt45v22">海外影视字幕翻译组</div></li>
+											<li><img src="images/baidu.gif"/><div class="lt45v2"><a href="http://www.yyets.com" target="_blank" >BT</a></div><div class="hotmeta1 lt45v22">海外影视字幕翻译组</div></li>
+											<li><img src="images/baidu.gif"/><div class="lt45v2"><a href="http://www.yyets.com" target="_blank" >电驴</a></div><div class="hotmeta1 lt45v22">海外影视字幕翻译组</div></li>
+											<li><img src="images/kuaiche.gif"/><div class="lt45v2"><a href="http://www.yyets.com" target="_blank" >快车</a></div><div class="hotmeta1 lt45v22">海外影视字幕翻译组</div></li>
+											<li><img src="images/baidu.gif"/><div class="lt45v2"><a href="http://www.yyets.com" target="_blank" >ftpget</a></div><div class="hotmeta1 lt45v22">海外影视字幕翻译组</div></li>
+											<li><img src="images/xuanfeng.gif"/><div class="lt45v2"><a href="http://www.yyets.com" target="_blank" >QQ旋风</a></div><div class="hotmeta1 lt45v22">海外影视字幕翻译组</div></li>
+											
+											<li style="width:50px">在线类：</li>
+											<li><img src="http://127.0.0.1/daohang/images/baidu.gif"/><div class="lt45v2"><a href="http://www.yyets.com" target="_blank" >百度影音</a></div><div class="hotmeta1 lt45v22">海外影视字幕翻译组</div></li>
+											<li><img src="http://127.0.0.1/daohang/images/baidu.gif"/><div class="lt45v2"><a href="http://www.yyets.com" target="_blank" >PPlive</a></div><div class="hotmeta1 lt45v22">海外影视字幕翻译组</div></li>
 											<li><img src="http://127.0.0.1/daohang/images/baidu.gif"/><div class="lt45v2"><a href="http://www.yyets.com" target="_blank" >YYeTs人人影视</a></div><div class="hotmeta1 lt45v22">海外影视字幕翻译组</div></li>
 											<li><img src="http://127.0.0.1/daohang/images/baidu.gif"/><div class="lt45v2"><a href="http://www.yyets.com" target="_blank" >YYeTs人人影视</a></div><div class="hotmeta1 lt45v22">海外影视字幕翻译组</div></li>
 											<li><img src="http://127.0.0.1/daohang/images/baidu.gif"/><div class="lt45v2"><a href="http://www.yyets.com" target="_blank" >YYeTs人人影视</a></div><div class="hotmeta1 lt45v22">海外影视字幕翻译组</div></li>
 											<li><img src="http://127.0.0.1/daohang/images/baidu.gif"/><div class="lt45v2"><a href="http://www.yyets.com" target="_blank" >YYeTs人人影视</a></div><div class="hotmeta1 lt45v22">海外影视字幕翻译组</div></li>
-											<li><img src="http://127.0.0.1/daohang/images/baidu.gif"/><div class="lt45v2"><a href="http://www.yyets.com" target="_blank" >YYeTs人人影视</a></div><div class="hotmeta1 lt45v22">海外影视字幕翻译组</div></li>
-											<li><img src="http://127.0.0.1/daohang/images/baidu.gif"/><div class="lt45v2"><a href="http://www.yyets.com" target="_blank" >YYeTs人人影视</a></div><div class="hotmeta1 lt45v22">海外影视字幕翻译组</div></li>
-											<li><img src="http://127.0.0.1/daohang/images/baidu.gif"/><div class="lt45v2"><a href="http://www.yyets.com" target="_blank" >YYeTs人人影视</a></div><div class="hotmeta1 lt45v22">海外影视字幕翻译组</div></li>
-											<li><img src="http://127.0.0.1/daohang/images/baidu.gif"/><div class="lt45v2"><a href="http://www.yyets.com" target="_blank" >YYeTs人人影视</a></div><div class="hotmeta1 lt45v22">海外影视字幕翻译组</div></li>
+											
+											<li style="width:50px">播放器：</li>
+											<li><img src="http://127.0.0.1/daohang/images/baidu.gif"/><div class="lt45v2"><a href="http://www.yyets.com" target="_blank" >百度影音</a></div><div class="hotmeta1 lt45v22">海外影视字幕翻译组</div></li>
+											<li><img src="http://127.0.0.1/daohang/images/baidu.gif"/><div class="lt45v2"><a href="http://www.yyets.com" target="_blank" >PPlive</a></div><div class="hotmeta1 lt45v22">海外影视字幕翻译组</div></li>
+											<li><img src="http://127.0.0.1/daohang/images/baidu.gif"/><div class="lt45v2"><a href="http://www.yyets.com" target="_blank" >YYeTs人人影视</a></div><div class="hotmeta1 lt45v22">海外影视字幕翻译组</div></li>											
 										</ol>
 									</div>
 								</div>
