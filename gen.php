@@ -40,9 +40,9 @@ function getcontent1($DH_output_site,$r1)
 	foreach ($match[0] as $key=>$eachmatch)
 	{
 		if(empty($match[7][$key]))
-			$DH_output_content.='<li><div class="siteall"><img width="16" height="16" data-src="'.$match[4][$key].'favicon.ico"/> <a href="'.$match[4][$key].'" target="_blank" >'.$match[5][$key].'</a></div><div class="hotmeta1">'.$match[6][$key].'</div></li>';
+			$DH_output_content.='<li><div class="siteall"><img width="16" height="16" data-src="'.$match[4][$key].'favicon.ico"/> <a href="'.$match[4][$key].'" target="_blank" rel="nofollow">'.$match[5][$key].'</a></div><div class="hotmeta1">'.$match[6][$key].'</div></li>';
 		else
-			$DH_output_content.='<li><div class="siteall"><img width="16" height="16" data-src="'.$match[7][$key].'"/> <a href="'.$match[4][$key].'" target="_blank" >'.$match[5][$key].'</a></div><div class="hotmeta1">'.$match[6][$key].'</div></li>';
+			$DH_output_content.='<li><div class="siteall"><img width="16" height="16" data-src="'.$match[7][$key].'"/> <a href="'.$match[4][$key].'" target="_blank" rel="nofollow">'.$match[5][$key].'</a></div><div class="hotmeta1">'.$match[6][$key].'</div></li>';
 	}
 	return $DH_output_content;
 }

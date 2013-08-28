@@ -8,7 +8,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<meta http-equiv="Content-Language" content="zh-CN">	
 	<link rel="stylesheet" type="text/css" media="all" href="./css/style.css"/>
-	<link rel="shortcut icon" href="./images/favicon.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="./favicon.ico" type="image/x-icon">
 	<script type="text/javascript">
 	eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('m.1D("1U");C 1W(n,D){9 E=18;9 j=r J();j.1X(j.1f()+E*1e);m.A=n+"="+1d(D)+";1b="+j.1h()+"; 1i=/"};C q(n){9 s=m.A.1m(r 1l("(^| )"+n+"=([^;]*)(;|$)"));b(s!=g)B 1k(s[2]);B g};9 3=\'.5 Z 4 ,.F{G:L(K=X);}\';9 3=\'.F{G:L(K=10);}\';9 d=q("d");b(d==g){9 z=r J();9 p=z.15();b(p>=14||p<=6)d=\'I\';S d=\'1p\'}b(d==\'I\'){3+=\' #M{8:#e;N:1O 1M #f}\';3+=\' 1L{8:#e;7:#f}\';3+=\' a{7:#f;8:1I}\';3+=\' a:t {7: #1J;}\';3+=\' .1K{8:1P(1Q://1V.0.0.1/1T/1R/1S.1H) 1G-1w;}\';3+=\' #1x{8:#e;}\';3+=\' #1v{8:#e;}\';3+=\' #1u-M{N:1t;}\';3+=\' .1y,.1z,.1E{7:#w}\';3+=\' .x-v-y{7:#w}.x-v-y:i{7:#u}\';3+=\' .1B{7:#13}\';3+=\' .1A , .Y a {7:#u}\';3+=\' #1a{k-h:O}\';3+=\' #1q{k-h:P}\';3+=\' .H,.H:1j{8:#e;7:#f;}\';3+=\' .5 4 a, .5 4 a:R, .5 4 a:t{7:#f;}\';3+=\' .5 4 4 a, .5 4 4 a:R, .5 4 4 a:t,.5 4 a:i,.5 4 a:1C{8:#e;}\';3+=\' .5 4 a:i,.5 4 4 a:i{8:#1F;7:#1s}\'}9 c=q("c");b(c==g){b(1r.1N.l>=o)c=\'o\';S c=\'12\'}b(c==\'o\'){3+=\' .17{l: 16;}\';3+=\' .11{l: V;}\';3+=\' .U{l: T;}\';3+=\' #W{k-h:O}\';3+=\' #19{k-h:P}\'}b(3!=g){3=\'<Q 1o="1n/1c">\'+3+\'</Q>\';m.1g(3)}',62,122,'|||style_need|li|topnav||color|background|var||if|movie002_width|movie002_day|383838|B6AA7B|null|weight|hover|exp|font|width|document|name|1280|hour|getCookie|new|arr|visited|bbb|topic|999|post|area|now|cookie|return|function|value|Days|celeimg_title|filter|searchinput|night|Date|opacity|alpha|wrapper|border|700|normal|style|link|else|794px|width_3|1054px|movie002_width_2|90|entry|ul|50|width_2|1024|D04230|20|getHours|1080px|width_1|30|movie002_width_1|movie002_day_2|expires|css|escape|86400000|getTime|write|toGMTString|path|focus|unescape|RegExp|match|text|type|day|movie002_day_1|window|fff|none|topics|global_nav|repeat|service_list|moviemeta|celeimg_name|titlecontent|moviedate|active|createElement|colormeta|52686F|no|gif|transparent|447FA8|order|body|solid|screen|1px|url|http|images|logonight_8|movie|imgdao|127|SetCookie|setTime'.split('|'),0,{}))
 
@@ -37,7 +37,7 @@
 			<span id="txt"></span>
 		</div>
 		<ul>
-			<li><a href="#" id="movie002_day_1" onclick="SetCookie('movie002_day','day');window.location.reload();">影视站点导航</a>｜<a href="#" id="movie002_day_2" onclick="SetCookie('movie002_day','night'); window.location.reload();">影视资源导航</a></li>
+			<li>影视 <a href="http://www.movie002.com">网址导航</a>｜<a href="http://movie002.com">资源导航</a></li>
 			<li><a href="#" id="movie002_day_1" onclick="SetCookie('movie002_day','day');window.location.reload();">日间模式</a>｜<a href="#" id="movie002_day_2" onclick="SetCookie('movie002_day','night'); window.location.reload();">夜间模式</a></li>
 			<li><a href="#" id="movie002_width_1" onclick="SetCookie('movie002_width','1024'); window.location.reload();">标准屏</a>｜<a href="#" id="movie002_width_2" onclick="SetCookie('movie002_width','1280');window.location.reload();">宽频</a></li>
 		</ul>
@@ -212,23 +212,23 @@
 								<div class="topic-detail">
 									<div class="col6">
 										<ol>
-											<li style="width:50px"><a class="hotmeta1" href="" target="_blank" title="点击查看更多" rel="nofollow">下载类:</a></li>
+											<li style="width:50px"><a class="hotmeta1" href="http://dl.pconline.com.cn/sort/89.html" target="_blank" title="点击查看更多" rel="nofollow">下载类:</a></li>
 											<li><img data-src="images/xunlei.gif"/><div class="lt45v2"><a href="http://dl.xunlei.com/xl7.html" target="_blank" rel="nofollow">迅雷</a> <a href="http://dl.xunlei.com/xl7.html" class="hotmeta1" target="_blank" >[天空]</a> <a href="http://dl.pconline.com.cn/download/51224.html" class="hotmeta1" target="_blank" rel="nofollow">[太平洋]</a></div><div class="hotmeta1 lt45v22">BT,迅雷链接、eMule等</div></li>
 											
-											<li><img data-src="images/kuaiche.gif"/><div class="lt45v2"><a href="http://" target="_blank" >快车</a> <a href="http://www.skycn.com/soft/appid/5399.html" class="hotmeta1" target="_blank" >[天空]</a> <a href="http://dl.pconline.com.cn/download/51224.html" class="hotmeta1" target="_blank" rel="nofollow">[太平洋]</a></div><div class="hotmeta1 lt45v22">HTTP、FTP、BT、eMule等</div></li>										
+											<li><img data-src="images/kuaiche.gif"/><div class="lt45v2"><a href="http://www.flashget.com/cn/" target="_blank" >快车</a> <a href="http://www.skycn.com/soft/appid/5399.html" class="hotmeta1" target="_blank" >[天空]</a> <a href="http://dl.pconline.com.cn/download/52509.html" class="hotmeta1" target="_blank" rel="nofollow">[太平洋]</a></div><div class="hotmeta1 lt45v22">HTTP、FTP、BT、eMule等</div></li>					
 																				
-											<li><img data-src="images/dianlv.gif"/><div class="lt45v2"><a href="http://" target="_blank" >电驴</a> <a href="http://www.skycn.com/soft/appid/5399.html" class="hotmeta1" target="_blank" >[天空]</a><a href="http://dl.pconline.com.cn/download/51224.html" class="hotmeta1" target="_blank" rel="nofollow">[太平洋]</a></div><div class="hotmeta1 lt45v22">整合VeryCD丰富的资源</div></li>
+											<li><img data-src="images/xuanfeng.gif"/><div class="lt45v2"><a href="http://xf.qq.com/" target="_blank" >QQ旋风</a> <a href="http://www.skycn.com/soft/appid/5399.html" class="hotmeta1" target="_blank" >[天空]</a> <a href="http://dl.pconline.com.cn/download/53292.html" target="_blank" class="hotmeta1" rel="nofollow">[太平洋]</a></div><div class="hotmeta1 lt45v22">HTTP、FTP、BT、eMule等</div></li>
 											
-											<li><img data-src="images/xuanfeng.gif"/><div class="lt45v2"><a href="http://" target="_blank" >QQ旋风</a> <a href="http://www.skycn.com/soft/appid/5399.html" class="hotmeta1" target="_blank" >[天空]</a> <a href="http://dl.pconline.com.cn/download/51224.html" target="_blank" class="hotmeta1" rel="nofollow">[太平洋]</a></div><div class="hotmeta1 lt45v22">HTTP、FTP、BT、eMule等</div></li>
+											<li><img data-src="images/idown.gif"/><div class="lt45v2"><a href="http://idown.org/" target="_blank" >iDown</a> <a href="http://www.skycn.com/soft/appid/5394.html" class="hotmeta1" target="_blank" >[天空]</a><a href="http://dl.pconline.com.cn/download/89955.html" class="hotmeta1" target="_blank" rel="nofollow">[太平洋]</a></div><div class="hotmeta1 lt45v22">流行视频/音乐/网盘网站资源</div></li>
 											
 											<li style="width:50px"><a class="hotmeta1" href="" target="_blank" title="点击查看更多" rel="nofollow">播放类:</a></li>
-											<li><img data-src="images/mplayer.gif"/><div class="lt45v2"><a href="http://dl.xunlei.com/xl7.html" target="_blank" rel="nofollow">Mplayer</a> <a href="http://dl.xunlei.com/xl7.html" class="hotmeta1" target="_blank" >[天空]</a> <a href="http://dl.pconline.com.cn/download/51224.html" target="_blank" class="hotmeta1" rel="nofollow">[太平洋]</a></div><div class="hotmeta1 lt45v22">BT,迅雷链接、eMule等</div></li>
+											<li><img data-src="images/mplayer.gif"/><div class="lt45v2"><a href="http://www.mplayerhq.hu/design7/dload.html" target="_blank" rel="nofollow">Mplayer</a> <a href="http://www.skycn.com/soft/appid/70.html" class="hotmeta1" target="_blank" >[天空]</a> <a href="http://dl.pconline.com.cn/html_2/1/124/id=48478&pn=0.html" target="_blank" class="hotmeta1" rel="nofollow">[太平洋]</a></div><div class="hotmeta1 lt45v22">BT,迅雷链接、eMule等</div></li>
 											
-											<li><img data-src="images/kmplayer.gif"/><div class="lt45v2"><a href="http://" target="_blank" >KMplayer </a><a href="http://www.skycn.com/soft/appid/5399.html" class="hotmeta1" target="_blank" >[天空]</a> <a href="http://dl.pconline.com.cn/download/51224.html" target="_blank" class="hotmeta1" rel="nofollow">[太平洋]</a></div><div class="hotmeta1 lt45v22">HTTP、FTP、BT、eMule等</div></li>										
+											<li><img data-src="images/kmplayer.gif"/><div class="lt45v2"><a href="http://www.kmpmedia.net/" target="_blank" >KMplayer </a><a href="http://www.skycn.com/soft/appid/40.html" class="hotmeta1" target="_blank" >[天空]</a> <a href="http://dl.pconline.com.cn/html_2/1/124/id=10344&pn=0.html" target="_blank" class="hotmeta1" rel="nofollow">[太平洋]</a></div><div class="hotmeta1 lt45v22">HTTP、FTP、BT、eMule等</div></li>										
 																				
-											<li><img data-src="images/baofeng.gif"/><div class="lt45v2"><a href="http://" target="_blank" >暴风影音</a> <a href="http://www.skycn.com/soft/appid/5399.html" class="hotmeta1" target="_blank" >[天空]</a> <a href="http://dl.pconline.com.cn/download/51224.html" class="hotmeta1" target="_blank" rel="nofollow">[太平洋]</a></div><div class="hotmeta1 lt45v22">整合VeryCD丰富的资源</div></li>		
+											<li><img data-src="images/baofeng.gif"/><div class="lt45v2"><a href="http://www.baofeng.com/" target="_blank" >暴风影音</a> <a href="http://www.skycn.com/soft/appid/2.html" class="hotmeta1" target="_blank" >[天空]</a> <a href="http://dl.pconline.com.cn/download/85058.html" class="hotmeta1" target="_blank" rel="nofollow">[太平洋]</a></div><div class="hotmeta1 lt45v22">整合VeryCD丰富的资源</div></li>		
 
-											<li><img data-src="images/baidu.gif"/><div class="lt45v2"><a href="http://" target="_blank" >百度影音</a> <a href="http://www.skycn.com/soft/appid/5399.html" target="_blank" class="hotmeta1" >[天空]</a> <a href="http://dl.pconline.com.cn/download/51224.html" target="_blank" class="hotmeta1" rel="nofollow">[太平洋]</a></div><div class="hotmeta1 lt45v22">整合VeryCD丰富的资源</div></li>											
+											<li><img data-src="images/baidu.gif"/><div class="lt45v2"><a href="http://player.baidu.com/yingyin.html" target="_blank" >百度影音</a> <a href="http://www.skycn.com/soft/appid/15596.html" target="_blank" class="hotmeta1" >[天空]</a> <a href="http://dl.pconline.com.cn/download/65022.html" target="_blank" class="hotmeta1" rel="nofollow">[太平洋]</a></div><div class="hotmeta1 lt45v22">整合VeryCD丰富的资源</div></li>											
 										</ol>
 									</div>
 								</div>
@@ -530,20 +530,20 @@
 		<!-- middle -->
 		<div id="footer">	
 			<div id="footer-nav">
-				<a href="http://127.0.0.1/movie/html/aboutus.html">关于我们</a> | 
-				<a href="http://127.0.0.1/movie/html/author.html">资源来源</a> | 	
-				<a href="http://127.0.0.1/movie/html/coperation.html">合作意向</a> | 
-				<a href="http://127.0.0.1/movie/html/help.html">帮助文档</a> | 
-				<a href="http://127.0.0.1/movie/html/opinion.html">意见反馈</a> | 
-				<a href="http://127.0.0.1/movie/html/mianze.html">免责声明</a> | 
-				<a href="http://127.0.0.1/movie/sitemap1.html">网站地图</a> | 
-				<a href="http://127.0.0.1/movie/html/links.html">友情链接</a> | 
+				<a href="http://movie002.com/html/aboutus.html">关于我们</a> | 
+				<a href="http://movie002.com/html/author.html">资源来源</a> | 	
+				<a href="http://movie002.com/html/coperation.html">合作意向</a> | 
+				<a href="http://movie002.com/html/help.html">帮助文档</a> | 
+				<a href="http://movie002.com/html/opinion.html">意见反馈</a> | 
+				<a href="http://movie002.com/html/mianze.html">免责声明</a> | 
+				<a href="http://movie002.com/sitemap1.html">网站地图</a> | 
+				<a href="http://movie002.com/html/links.html">友情链接</a> | 
 				<a href="http://weibo.com/movie002" target="_blank" rel="nofollow">新浪微博</a> |
 				<a href="http://t.qq.com/movie002" target="_blank" rel="nofollow">腾讯微博</a> |
 				<a href="javascript:void(0);" onclick="AddFavorite('二手电影-影视资源搜集分享',location.href)">收藏本站</a>	
 		   </div>
 			<div class="cpright colorlittle">
-			© 2013 - 2018 &nbsp;<a href="http://127.0.0.1/movie/">二手电影网</a> &nbsp;All Rights Reserved. &nbsp;
+			© 2013 - 2018 &nbsp;<a href="http://movie002.com/">二手电影网</a> &nbsp;All Rights Reserved. &nbsp;
 			<script type="text/javascript">
 			var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
 			document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fb3e266da506226dbaa921d5d4e1e69b2' type='text/javascript'%3E%3C/script%3E"));
