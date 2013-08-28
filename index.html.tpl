@@ -206,39 +206,35 @@
 						</div>					
 					</div>
 					<div class="TabContent">
-						<div id="myTab1_Content0">
+						<div id="myTab0_Content0">
 							<div class="post-topic-area">影视相关软件</div>	
 							<div id="topics-wrapper">
 								<div class="topic-detail">
-									<div class="col5">
+									<div class="col6">
 										<ol>
-											<li style="width:50px">下载类：</li>
-											<li><img src="images/xunlei.gif"/><div class="lt45v2"><a href="http://www.yyets.com" target="_blank" >迅雷</a></div><div class="hotmeta1 lt45v22">海外影视字幕翻译组</div></li>
-											<li><img src="images/baidu.gif"/><div class="lt45v2"><a href="http://www.yyets.com" target="_blank" >BT</a></div><div class="hotmeta1 lt45v22">海外影视字幕翻译组</div></li>
-											<li><img src="images/baidu.gif"/><div class="lt45v2"><a href="http://www.yyets.com" target="_blank" >电驴</a></div><div class="hotmeta1 lt45v22">海外影视字幕翻译组</div></li>
-											<li><img src="images/kuaiche.gif"/><div class="lt45v2"><a href="http://www.yyets.com" target="_blank" >快车</a></div><div class="hotmeta1 lt45v22">海外影视字幕翻译组</div></li>
-											<li><img src="images/baidu.gif"/><div class="lt45v2"><a href="http://www.yyets.com" target="_blank" >ftpget</a></div><div class="hotmeta1 lt45v22">海外影视字幕翻译组</div></li>
-											<li><img src="images/xuanfeng.gif"/><div class="lt45v2"><a href="http://www.yyets.com" target="_blank" >QQ旋风</a></div><div class="hotmeta1 lt45v22">海外影视字幕翻译组</div></li>
+											<li style="width:50px"><a class="hotmeta1" href="" target="_blank" title="点击查看更多" rel="nofollow">下载类:</a></li>
+											<li><img data-src="images/xunlei.gif"/><div class="lt45v2"><a href="http://dl.xunlei.com/xl7.html" target="_blank" rel="nofollow">迅雷</a> <a href="http://dl.xunlei.com/xl7.html" class="hotmeta1" target="_blank" >[天空]</a> <a href="http://dl.pconline.com.cn/download/51224.html" class="hotmeta1" target="_blank" rel="nofollow">[太平洋]</a></div><div class="hotmeta1 lt45v22">BT,迅雷链接、eMule等</div></li>
 											
-											<li style="width:50px">在线类：</li>
-											<li><img src="http://127.0.0.1/daohang/images/baidu.gif"/><div class="lt45v2"><a href="http://www.yyets.com" target="_blank" >百度影音</a></div><div class="hotmeta1 lt45v22">海外影视字幕翻译组</div></li>
-											<li><img src="http://127.0.0.1/daohang/images/baidu.gif"/><div class="lt45v2"><a href="http://www.yyets.com" target="_blank" >PPlive</a></div><div class="hotmeta1 lt45v22">海外影视字幕翻译组</div></li>
-											<li><img src="http://127.0.0.1/daohang/images/baidu.gif"/><div class="lt45v2"><a href="http://www.yyets.com" target="_blank" >YYeTs人人影视</a></div><div class="hotmeta1 lt45v22">海外影视字幕翻译组</div></li>
-											<li><img src="http://127.0.0.1/daohang/images/baidu.gif"/><div class="lt45v2"><a href="http://www.yyets.com" target="_blank" >YYeTs人人影视</a></div><div class="hotmeta1 lt45v22">海外影视字幕翻译组</div></li>
-											<li><img src="http://127.0.0.1/daohang/images/baidu.gif"/><div class="lt45v2"><a href="http://www.yyets.com" target="_blank" >YYeTs人人影视</a></div><div class="hotmeta1 lt45v22">海外影视字幕翻译组</div></li>
-											<li><img src="http://127.0.0.1/daohang/images/baidu.gif"/><div class="lt45v2"><a href="http://www.yyets.com" target="_blank" >YYeTs人人影视</a></div><div class="hotmeta1 lt45v22">海外影视字幕翻译组</div></li>
+											<li><img data-src="images/kuaiche.gif"/><div class="lt45v2"><a href="http://" target="_blank" >快车</a> <a href="http://www.skycn.com/soft/appid/5399.html" class="hotmeta1" target="_blank" >[天空]</a> <a href="http://dl.pconline.com.cn/download/51224.html" class="hotmeta1" target="_blank" rel="nofollow">[太平洋]</a></div><div class="hotmeta1 lt45v22">HTTP、FTP、BT、eMule等</div></li>										
+																				
+											<li><img data-src="images/dianlv.gif"/><div class="lt45v2"><a href="http://" target="_blank" >电驴</a> <a href="http://www.skycn.com/soft/appid/5399.html" class="hotmeta1" target="_blank" >[天空]</a><a href="http://dl.pconline.com.cn/download/51224.html" class="hotmeta1" target="_blank" rel="nofollow">[太平洋]</a></div><div class="hotmeta1 lt45v22">整合VeryCD丰富的资源</div></li>
 											
-											<li style="width:50px">播放器：</li>
-											<li><img src="http://127.0.0.1/daohang/images/baidu.gif"/><div class="lt45v2"><a href="http://www.yyets.com" target="_blank" >百度影音</a></div><div class="hotmeta1 lt45v22">海外影视字幕翻译组</div></li>
-											<li><img src="http://127.0.0.1/daohang/images/baidu.gif"/><div class="lt45v2"><a href="http://www.yyets.com" target="_blank" >PPlive</a></div><div class="hotmeta1 lt45v22">海外影视字幕翻译组</div></li>
-											<li><img src="http://127.0.0.1/daohang/images/baidu.gif"/><div class="lt45v2"><a href="http://www.yyets.com" target="_blank" >YYeTs人人影视</a></div><div class="hotmeta1 lt45v22">海外影视字幕翻译组</div></li>											
+											<li><img data-src="images/xuanfeng.gif"/><div class="lt45v2"><a href="http://" target="_blank" >QQ旋风</a> <a href="http://www.skycn.com/soft/appid/5399.html" class="hotmeta1" target="_blank" >[天空]</a> <a href="http://dl.pconline.com.cn/download/51224.html" target="_blank" class="hotmeta1" rel="nofollow">[太平洋]</a></div><div class="hotmeta1 lt45v22">HTTP、FTP、BT、eMule等</div></li>
+											
+											<li style="width:50px"><a class="hotmeta1" href="" target="_blank" title="点击查看更多" rel="nofollow">播放类:</a></li>
+											<li><img data-src="images/mplayer.gif"/><div class="lt45v2"><a href="http://dl.xunlei.com/xl7.html" target="_blank" rel="nofollow">Mplayer</a> <a href="http://dl.xunlei.com/xl7.html" class="hotmeta1" target="_blank" >[天空]</a> <a href="http://dl.pconline.com.cn/download/51224.html" target="_blank" class="hotmeta1" rel="nofollow">[太平洋]</a></div><div class="hotmeta1 lt45v22">BT,迅雷链接、eMule等</div></li>
+											
+											<li><img data-src="images/kmplayer.gif"/><div class="lt45v2"><a href="http://" target="_blank" >KMplayer </a><a href="http://www.skycn.com/soft/appid/5399.html" class="hotmeta1" target="_blank" >[天空]</a> <a href="http://dl.pconline.com.cn/download/51224.html" target="_blank" class="hotmeta1" rel="nofollow">[太平洋]</a></div><div class="hotmeta1 lt45v22">HTTP、FTP、BT、eMule等</div></li>										
+																				
+											<li><img data-src="images/baofeng.gif"/><div class="lt45v2"><a href="http://" target="_blank" >暴风影音</a> <a href="http://www.skycn.com/soft/appid/5399.html" class="hotmeta1" target="_blank" >[天空]</a> <a href="http://dl.pconline.com.cn/download/51224.html" class="hotmeta1" target="_blank" rel="nofollow">[太平洋]</a></div><div class="hotmeta1 lt45v22">整合VeryCD丰富的资源</div></li>		
+
+											<li><img data-src="images/baidu.gif"/><div class="lt45v2"><a href="http://" target="_blank" >百度影音</a> <a href="http://www.skycn.com/soft/appid/5399.html" target="_blank" class="hotmeta1" >[天空]</a> <a href="http://dl.pconline.com.cn/download/51224.html" target="_blank" class="hotmeta1" rel="nofollow">[太平洋]</a></div><div class="hotmeta1 lt45v22">整合VeryCD丰富的资源</div></li>											
 										</ol>
 									</div>
 								</div>
 							</div>
 						</div>
 					</div>
-
 					<div class="TabContent">
 					<div class="TabTitle TabTitlex"> 
 						<ul id="myTab1">
@@ -258,7 +254,6 @@
 							</div>
 						</div>
 					</div>
-
 					</div>
 
 					<div id="myTab1_Content1" class="none">
@@ -288,7 +283,7 @@
 					<div id="topics-wrapper">
 						<div class="topic-detail">
 							<div class="col5">
-							<ol>%content12%</ol>
+							<ol>%content13%</ol>
 							</div>
 						</div>
 					</div>
@@ -299,7 +294,7 @@
 					<div id="topics-wrapper">
 						<div class="topic-detail">
 							<div class="col5">
-							<ol>%content12%</ol>
+							<ol>%content14%</ol>
 							</div>
 						</div>
 					</div>
@@ -369,41 +364,39 @@
 					</div>
 					<div class="TabContent">
 					<div class="TabTitle TabTitlex"> 
-						<ul id="myTab1">
+						<ul id="myTab3">
 					<li class="active" onclick="nTabs(this,0);">综合</li>
 					<li class="normal" onclick="nTabs(this,1);">电视</li>
 					<li class="normal" onclick="nTabs(this,2);">国外</li>
-					<li class="normal" onclick="nTabs(this,3);">主题</li>
-					<li class="normal" onclick="nTabs(this,4);">主题类</li>
 						</ul>
 					</div>
-					<div id="myTab1_Content0" class="none">
+					<div id="myTab3_Content0" class="none">
 					<div class="post-topic-area">在线观看类</div>	
 					<div id="topics-wrapper">
 						<div class="topic-detail">
 							<div class="col5">
-							<ol>%content10%</ol>
+							<ol>%content30%</ol>
 							</div>
 						</div>
 					</div>
 
 					</div>
-					<div id="myTab1_Content1">
+					<div id="myTab3_Content1">
 					<div class="post-topic-area">在线观看类</div>	
 					<div id="topics-wrapper">
 						<div class="topic-detail">
 							<div class="col5">
-							<ol>%content10%</ol>
+							<ol>%content31%</ol>
 							</div>
 						</div>
 					</div>
 					</div>
-					<div id="myTab1_Content2" class="none">
+					<div id="myTab3_Content2" class="none">
 					<div class="post-topic-area">在线观看类</div>	
 					<div id="topics-wrapper">
 						<div class="topic-detail">
 							<div class="col5">
-							<ol>%content10%</ol>
+							<ol>%content32%</ol>
 							</div>
 						</div>
 					</div>
@@ -411,41 +404,39 @@
 					</div>
 					<div class="TabContent">
 					<div class="TabTitle TabTitlex"> 
-						<ul id="myTab1">
+						<ul id="myTab4">
 					<li class="active" onclick="nTabs(this,0);">综合</li>
 					<li class="normal" onclick="nTabs(this,1);">电视</li>
 					<li class="normal" onclick="nTabs(this,2);">国外</li>
-					<li class="normal" onclick="nTabs(this,3);">主题</li>
-					<li class="normal" onclick="nTabs(this,4);">主题类</li>
 						</ul>
 					</div>
-					<div id="myTab1_Content0" class="none">
+					<div id="myTab4_Content0" class="none">
 					<div class="post-topic-area">在线观看类</div>	
 					<div id="topics-wrapper">
 						<div class="topic-detail">
 							<div class="col5">
-							<ol>%content10%</ol>
+							<ol>%content40%</ol>
 							</div>
 						</div>
 					</div>
 
 					</div>
-					<div id="myTab1_Content1">
+					<div id="myTab4_Content1">
 					<div class="post-topic-area">在线观看类</div>	
 					<div id="topics-wrapper">
 						<div class="topic-detail">
 							<div class="col5">
-							<ol>%content10%</ol>
+							<ol>%content41%</ol>
 							</div>
 						</div>
 					</div>
 					</div>
-					<div id="myTab1_Content2" class="none">
+					<div id="myTab4_Content2" class="none">
 					<div class="post-topic-area">在线观看类</div>	
 					<div id="topics-wrapper">
 						<div class="topic-detail">
 							<div class="col5">
-							<ol>%content10%</ol>
+							<ol>%content42%</ol>
 							</div>
 						</div>
 					</div>
@@ -453,41 +444,39 @@
 					</div>
 					<div class="TabContent">
 					<div class="TabTitle TabTitlex"> 
-						<ul id="myTab1">
+						<ul id="myTab5">
 					<li class="active" onclick="nTabs(this,0);">综合</li>
 					<li class="normal" onclick="nTabs(this,1);">电视</li>
 					<li class="normal" onclick="nTabs(this,2);">国外</li>
-					<li class="normal" onclick="nTabs(this,3);">主题</li>
-					<li class="normal" onclick="nTabs(this,4);">主题类</li>
 						</ul>
 					</div>
-					<div id="myTab1_Content0" class="none">
+					<div id="myTab5_Content0" class="none">
 					<div class="post-topic-area">在线观看类</div>	
 					<div id="topics-wrapper">
 						<div class="topic-detail">
 							<div class="col5">
-							<ol>%content10%</ol>
+							<ol>%content50%</ol>
 							</div>
 						</div>
 					</div>
 
 					</div>
-					<div id="myTab1_Content1">
+					<div id="myTab5_Content1">
 					<div class="post-topic-area">在线观看类</div>	
 					<div id="topics-wrapper">
 						<div class="topic-detail">
 							<div class="col5">
-							<ol>%content10%</ol>
+							<ol>%content51%</ol>
 							</div>
 						</div>
 					</div>
 					</div>
-					<div id="myTab1_Content2" class="none">
+					<div id="myTab5_Content2" class="none">
 					<div class="post-topic-area">在线观看类</div>	
 					<div id="topics-wrapper">
 						<div class="topic-detail">
 							<div class="col5">
-							<ol>%content10%</ol>
+							<ol>%content52%</ol>
 							</div>
 						</div>
 					</div>
@@ -495,92 +484,40 @@
 					</div>
 					<div class="TabContent">
 					<div class="TabTitle TabTitlex"> 
-						<ul id="myTab1">
+						<ul id="myTab6">
 					<li class="active" onclick="nTabs(this,0);">综合</li>
 					<li class="normal" onclick="nTabs(this,1);">电视</li>
 					<li class="normal" onclick="nTabs(this,2);">国外</li>
-					<li class="normal" onclick="nTabs(this,3);">主题</li>
-					<li class="normal" onclick="nTabs(this,4);">主题类</li>
 						</ul>
 					</div>
-					<div id="myTab1_Content0" class="none">
+					<div id="myTab6_Content0" class="none">
 					<div class="post-topic-area">在线观看类</div>	
 					<div id="topics-wrapper">
 						<div class="topic-detail">
-							<div class="col5"><ol>
-								<li><div>1 <span class="line1 w100pre"><a href="http://www.youku.com/" target="_blank" >优酷网</a></span></div><div class="hotmeta1">中国最大的视频站</div></li>
-								<li><div>2 <span class="line1 w100pre"><a href="http://www.youku.com/" target="_blank" >土豆网</a></span></div><div class="hotmeta1">著名在线视频站</div></li>
-								<li><div>3 <span class="line1 w100pre"><a href="http://www.youku.com/" target="_blank" >腾讯视频</a></span></div><div class="hotmeta1">中国最大的视频站</div></li>
-							</ol></div>
+							<div class="col5">
+							<ol>%content60%</ol>
+							</div>
 						</div>
 					</div>
 
 					</div>
-					<div id="myTab1_Content1">
+					<div id="myTab6_Content1">
 					<div class="post-topic-area">在线观看类</div>	
 					<div id="topics-wrapper">
 						<div class="topic-detail">
-							<div class="col5"><ol>
-								<li><div>1 <span class="line1 w100pre"><a href="http://www.youku.com/" target="_blank" >优酷网</a></span></div><div class="hotmeta1">中国最大的视频站</div></li>
-								<li><div>2 <span class="line1 w100pre"><a href="http://www.youku.com/" target="_blank" >土豆网</a></span></div><div class="hotmeta1">著名在线视频站</div></li>	
-							</ol></div>
+							<div class="col5">
+							<ol>%content61%</ol>
+							</div>
 						</div>
 					</div>
 					</div>
-					<div id="myTab1_Content2" class="none">
+					<div id="myTab6_Content2" class="none">
 					<div class="post-topic-area">在线观看类</div>	
 					<div id="topics-wrapper">
 						<div class="topic-detail">
-							<div class="col5"><ol>
-								<li><div>1 <span class="line1 w100pre"><a href="http://www.youku.com/" target="_blank" >优酷网</a></span></div><div class="hotmeta1">中国最大的视频站</div></li>
-								<li><div>2 <span class="line1 w100pre"><a href="http://www.youku.com/" target="_blank" >土豆网</a></span></div><div class="hotmeta1">著名在线视频站</div></li>	
-							</ol></div>
-						</div>
-					</div>
-					</div>
-					</div>
-					<div class="TabContent">
-					<div class="TabTitle TabTitlex"> 
-						<ul id="myTab1">
-					<li class="active" onclick="nTabs(this,0);">综合</li>
-					<li class="normal" onclick="nTabs(this,1);">电视</li>
-					<li class="normal" onclick="nTabs(this,2);">国外</li>
-					<li class="normal" onclick="nTabs(this,3);">主题</li>
-					<li class="normal" onclick="nTabs(this,4);">主题类</li>
-						</ul>
-					</div>
-					<div id="myTab1_Content0" class="none">
-					<div class="post-topic-area">在线观看类</div>	
-					<div id="topics-wrapper">
-						<div class="topic-detail">
-							<div class="col5"><ol>
-								<li><div>1 <span class="line1 w100pre"><a href="http://www.youku.com/" target="_blank" >优酷网</a></span></div><div class="hotmeta1">中国最大的视频站</div></li>
-								<li><div>2 <span class="line1 w100pre"><a href="http://www.youku.com/" target="_blank" >土豆网</a></span></div><div class="hotmeta1">著名在线视频站</div></li>
-								<li><div>3 <span class="line1 w100pre"><a href="http://www.youku.com/" target="_blank" >腾讯视频</a></span></div><div class="hotmeta1">中国最大的视频站</div></li>
-							</ol></div>
-						</div>
-					</div>
-
-					</div>
-					<div id="myTab1_Content1">
-					<div class="post-topic-area">在线观看类</div>	
-					<div id="topics-wrapper">
-						<div class="topic-detail">
-							<div class="col5"><ol>
-								<li><div>1 <span class="line1 w100pre"><a href="http://www.youku.com/" target="_blank" >优酷网</a></span></div><div class="hotmeta1">中国最大的视频站</div></li>
-								<li><div>2 <span class="line1 w100pre"><a href="http://www.youku.com/" target="_blank" >土豆网</a></span></div><div class="hotmeta1">著名在线视频站</div></li>	
-							</ol></div>
-						</div>
-					</div>
-					</div>
-					<div id="myTab1_Content2" class="none">
-					<div class="post-topic-area">在线观看类</div>	
-					<div id="topics-wrapper">
-						<div class="topic-detail">
-							<div class="col5"><ol>
-								<li><div>1 <span class="line1 w100pre"><a href="http://www.youku.com/" target="_blank" >优酷网</a></span></div><div class="hotmeta1">中国最大的视频站</div></li>
-								<li><div>2 <span class="line1 w100pre"><a href="http://www.youku.com/" target="_blank" >土豆网</a></span></div><div class="hotmeta1">著名在线视频站</div></li>	
-							</ol></div>
+							<div class="col5">
+							<ol>%content62%</ol>
+							</div>
 						</div>
 					</div>
 					</div>

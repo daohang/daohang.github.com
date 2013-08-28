@@ -182,7 +182,7 @@
 	right:0px;
 }
 
-.col2,.col3,.col4,.col5
+.col2,.col3,.col4,.col5,.col6
 {
 	position:relative;
 	width:100%;
@@ -190,7 +190,7 @@
 	padding:8px;
 }
 
-.col1 li,.col2 li,.col3 li,.col4 li,.col5 li
+.col1 li,.col2 li,.col3 li,.col4 li,.col5 li,.col6 li
 {
 	position:relative;
 	border-right:1px solid #ccc;
@@ -218,7 +218,7 @@
 
 .col5 li
 {
-	width:14.5%;
+	width:18.5%;
 	height:40px;	
 	float:left;
 	margin:0;
@@ -238,6 +238,16 @@
 	border: 1px solid transparent;
 }
 
+.col6 li
+{
+	width:22%;
+	height:40px;	
+	float:left;
+	margin:0;
+	white-space:nowrap;
+	padding:5px;
+	border: 1px solid transparent;
+}
 .col1 li
 {
 	height:65px;
@@ -259,4 +269,18 @@
 .list20px li
 {
 	height:20px;
+}
+
+.siteall img
+{
+	height:16px;
+	width:16px;
+	vertical-align: middle;
+}
+
+.siteall a
+{
+	height:16px;
+	width:16px;
+	vertical-align: middle;
 }
