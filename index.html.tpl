@@ -1,8 +1,8 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN" xml:lang="zh-CN">
 <head>
-	<title>二手电影-影视资源,专业导航</title>
-	<meta name="keywords" content="影视资源,影视联盟,高清资源,热门影视,高清欧美影视,高清日韩影视,高清华语影视,最新欧美影视,最新日韩影视,最新华语影视"/>
+	<title>二手电影-影视网址,专业导航</title>
+	<meta name="keywords" content="影视网址导航,影视网站导航,影视站点导航,导航,影视网址,影视站点"/>
 	<meta name="description" content="二手电影(movie002.com)实时搜集、归类、整理、分享各种影视作品（包括电影、电视剧、综艺、动漫）的影片信息、影片评分、影片热度、预告片、资源下载、购票链接、在线资源以及相关影视评论、资讯、活动的链接，致力于让用户全面地访问到一个影视作品的所有相关优质资源。" />
 		<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -10,7 +10,7 @@
 	<link rel="stylesheet" type="text/css" media="all" href="./css/style.css"/>
 	<link rel="shortcut icon" href="./favicon.ico" type="image/x-icon">
 	<script type="text/javascript">
-	eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('m.1D("1U");C 1W(n,D){9 E=18;9 j=r J();j.1X(j.1f()+E*1e);m.A=n+"="+1d(D)+";1b="+j.1h()+"; 1i=/"};C q(n){9 s=m.A.1m(r 1l("(^| )"+n+"=([^;]*)(;|$)"));b(s!=g)B 1k(s[2]);B g};9 3=\'.5 Z 4 ,.F{G:L(K=X);}\';9 3=\'.F{G:L(K=10);}\';9 d=q("d");b(d==g){9 z=r J();9 p=z.15();b(p>=14||p<=6)d=\'I\';S d=\'1p\'}b(d==\'I\'){3+=\' #M{8:#e;N:1O 1M #f}\';3+=\' 1L{8:#e;7:#f}\';3+=\' a{7:#f;8:1I}\';3+=\' a:t {7: #1J;}\';3+=\' .1K{8:1P(1Q://1V.0.0.1/1T/1R/1S.1H) 1G-1w;}\';3+=\' #1x{8:#e;}\';3+=\' #1v{8:#e;}\';3+=\' #1u-M{N:1t;}\';3+=\' .1y,.1z,.1E{7:#w}\';3+=\' .x-v-y{7:#w}.x-v-y:i{7:#u}\';3+=\' .1B{7:#13}\';3+=\' .1A , .Y a {7:#u}\';3+=\' #1a{k-h:O}\';3+=\' #1q{k-h:P}\';3+=\' .H,.H:1j{8:#e;7:#f;}\';3+=\' .5 4 a, .5 4 a:R, .5 4 a:t{7:#f;}\';3+=\' .5 4 4 a, .5 4 4 a:R, .5 4 4 a:t,.5 4 a:i,.5 4 a:1C{8:#e;}\';3+=\' .5 4 a:i,.5 4 4 a:i{8:#1F;7:#1s}\'}9 c=q("c");b(c==g){b(1r.1N.l>=o)c=\'o\';S c=\'12\'}b(c==\'o\'){3+=\' .17{l: 16;}\';3+=\' .11{l: V;}\';3+=\' .U{l: T;}\';3+=\' #W{k-h:O}\';3+=\' #19{k-h:P}\'}b(3!=g){3=\'<Q 1o="1n/1c">\'+3+\'</Q>\';m.1g(3)}',62,122,'|||style_need|li|topnav||color|background|var||if|movie002_width|movie002_day|383838|B6AA7B|null|weight|hover|exp|font|width|document|name|1280|hour|getCookie|new|arr|visited|bbb|topic|999|post|area|now|cookie|return|function|value|Days|celeimg_title|filter|searchinput|night|Date|opacity|alpha|wrapper|border|700|normal|style|link|else|794px|width_3|1054px|movie002_width_2|90|entry|ul|50|width_2|1024|D04230|20|getHours|1080px|width_1|30|movie002_width_1|movie002_day_2|expires|css|escape|86400000|getTime|write|toGMTString|path|focus|unescape|RegExp|match|text|type|day|movie002_day_1|window|fff|none|topics|global_nav|repeat|service_list|moviemeta|celeimg_name|titlecontent|moviedate|active|createElement|colormeta|52686F|no|gif|transparent|447FA8|order|body|solid|screen|1px|url|http|images|logonight_8|movie|imgdao|127|SetCookie|setTime'.split('|'),0,{}))
+	eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('m.1D("1U");C 1W(n,D){9 E=18;9 j=r J();j.1X(j.1f()+E*1e);m.A=n+"="+1d(D)+";1b="+j.1h()+"; 1i=/"};C q(n){9 s=m.A.1m(r 1l("(^| )"+n+"=([^;]*)(;|$)"));b(s!=g)B 1k(s[2]);B g};9 3=\'.5 Z 4 ,.F{G:L(K=X);}\';9 3=\'.F{G:L(K=10);}\';9 d=q("d");b(d==g){9 z=r J();9 p=z.15();b(p>=14||p<=6)d=\'I\';S d=\'1p\'}b(d==\'I\'){3+=\' #M{8:#e;N:1O 1M #f}\';3+=\' 1L{8:#e;7:#f}\';3+=\' a{7:#f;8:1I}\';3+=\' a:t {7: #1J;}\';3+=\' .1K{8:1P(1Q://1V.0.0.1/1T/1R/1S.1H) 1G-1w;}\';3+=\' #1x{8:#e;}\';3+=\' #1v{8:#e;}\';3+=\' #1u-M{N:1t;}\';3+=\' .1y,.1z,.1E{7:#w}\';3+=\' .x-v-y{7:#w}.x-v-y:i{7:#u}\';3+=\' .1B{7:#13}\';3+=\' .1A , .Y a {7:#u}\';3+=\' #1a{k-h:O}\';3+=\' #1q{k-h:P}\';3+=\' .H,.H:1j{8:#e;7:#f;}\';3+=\' .5 4 a, .5 4 a:R, .5 4 a:t{7:#f;}\';3+=\' .5 4 4 a, .5 4 4 a:R, .5 4 4 a:t,.5 4 a:i,.5 4 a:1C{8:#e;}\';3+=\' .5 4 a:i,.5 4 4 a:i{8:#1F;7:#1s}\'}9 c=q("c");b(c==g){b(1r.1N.l>=o)c=\'o\';S c=\'12\'}b(c==\'o\'){3+=\' .17{l: 16;}\';3+=\' .11{l: V;}\';3+=\' .U{l: T;}\';3+=\' #W{k-h:O}\';3+=\' #19{k-h:P}\'}b(3!=g){3=\'<Q 1o="1n/1c">\'+3+\'</Q>\';m.1g(3)}',62,122,'|||style_need|li|topnav||color|background|var||if|movie002_width|movie002_day|383838|B6AA7B|null|weight|hover|exp|font|width|document|name|1280|hour|getCookie|new|arr|visited|bbb|topic|999|post|area|now|cookie|return|function|value|Days|celeimg_title|filter|searchinput|night|Date|opacity|alpha|wrapper|border|700|normal|style|link|else|770px|width_3|1040px|movie002_width_2|90|entry|ul|50|width_2|1024|D04230|20|getHours|1080px|width_1|30|movie002_width_1|movie002_day_2|expires|css|escape|86400000|getTime|write|toGMTString|path|focus|unescape|RegExp|match|text|type|day|movie002_day_1|window|fff|none|topics|global_nav|repeat|service_list|moviemeta|celeimg_name|titlecontent|moviedate|active|createElement|colormeta|52686F|no|gif|transparent|447FA8|order|body|solid|screen|1px|url|http|images|logonight_8|movie|imgdao|127|SetCookie|setTime'.split('|'),0,{}))
 
 	</script>	
 </head>
@@ -219,7 +219,7 @@
 																				
 											<li><img data-src="images/xuanfeng.gif"/><div class="lt45v2"><a href="http://xf.qq.com/" target="_blank" >QQ旋风</a> <a href="http://www.skycn.com/soft/appid/5399.html" class="hotmeta1" target="_blank" >[天空]</a> <a href="http://dl.pconline.com.cn/download/53292.html" target="_blank" class="hotmeta1" rel="nofollow">[太平洋]</a></div><div class="hotmeta1 lt45v22">HTTP、FTP、BT、eMule等</div></li>
 											
-											<li><img data-src="images/idown.gif"/><div class="lt45v2"><a href="http://idown.org/" target="_blank" >iDown</a> <a href="http://www.skycn.com/soft/appid/5394.html" class="hotmeta1" target="_blank" >[天空]</a><a href="http://dl.pconline.com.cn/download/89955.html" class="hotmeta1" target="_blank" rel="nofollow">[太平洋]</a></div><div class="hotmeta1 lt45v22">流行视频/音乐/网盘网站资源</div></li>
+											<li><img data-src="images/idown.gif"/><div class="lt45v2"><a href="http://idown.org/" target="_blank" >iDown</a> <a href="http://www.skycn.com/soft/appid/5394.html" class="hotmeta1" target="_blank" >[天空]</a> <a href="http://dl.pconline.com.cn/download/89955.html" class="hotmeta1" target="_blank" rel="nofollow">[太平洋]</a></div><div class="hotmeta1 lt45v22">流行视频/音乐/网盘网站资源</div></li>
 											
 											<li style="width:50px"><a class="hotmeta1" href="" target="_blank" title="点击查看更多" rel="nofollow">播放类:</a></li>
 											<li><img data-src="images/mplayer.gif"/><div class="lt45v2"><a href="http://www.mplayerhq.hu/design7/dload.html" target="_blank" rel="nofollow">Mplayer</a> <a href="http://www.skycn.com/soft/appid/70.html" class="hotmeta1" target="_blank" >[天空]</a> <a href="http://dl.pconline.com.cn/html_2/1/124/id=48478&pn=0.html" target="_blank" class="hotmeta1" rel="nofollow">[太平洋]</a></div><div class="hotmeta1 lt45v22">BT,迅雷链接、eMule等</div></li>
@@ -239,14 +239,13 @@
 					<div class="TabTitle TabTitlex"> 
 						<ul id="myTab1">
 					<li class="active" onclick="nTabs(this,0);">综合</li>
-					<li class="normal" onclick="nTabs(this,1);">电视</li>
-					<li class="normal" onclick="nTabs(this,2);">国外</li>
-					<li class="normal" onclick="nTabs(this,3);">主题</li>
-					<li class="normal" onclick="nTabs(this,4);">主题类</li>
+					<li class="normal" onclick="nTabs(this,1);">电影</li>
+					<li class="normal" onclick="nTabs(this,2);">电视</li>
+					<li class="normal" onclick="nTabs(this,3);">动漫</li>
 						</ul>
 					</div>
 					<div id="myTab1_Content0">
-					<div class="post-topic-area">在线观看类</div>	
+					<div class="post-topic-area">在线类</div>	
 					<div id="topics-wrapper">
 						<div class="topic-detail">
 							<div class="col5">
@@ -257,7 +256,7 @@
 					</div>
 
 					<div id="myTab1_Content1" class="none">
-					<div class="post-topic-area">在线观看类</div>	
+					<div class="post-topic-area">在线类</div>	
 					<div id="topics-wrapper">
 						<div class="topic-detail">
 							<div class="col5">
@@ -268,7 +267,7 @@
 					</div>
 
 					<div id="myTab1_Content2" class="none">
-					<div class="post-topic-area">在线观看类</div>	
+					<div class="post-topic-area">在线类</div>	
 					<div id="topics-wrapper">
 						<div class="topic-detail">
 							<div class="col5">
@@ -277,37 +276,15 @@
 						</div>
 					</div>
 					</div>
-
-					<div id="myTab1_Content3" class="none">
-					<div class="post-topic-area">在线观看类</div>	
-					<div id="topics-wrapper">
-						<div class="topic-detail">
-							<div class="col5">
-							<ol>%content13%</ol>
-							</div>
-						</div>
-					</div>
-					</div>
-
-					<div id="myTab1_Content4" class="none">
-					<div class="post-topic-area">在线观看类</div>	
-					<div id="topics-wrapper">
-						<div class="topic-detail">
-							<div class="col5">
-							<ol>%content14%</ol>
-							</div>
-						</div>
-					</div>
-					</div>
+					
 					</div>
 					<div class="TabContent">
 					<div class="TabTitle TabTitlex"> 
 						<ul id="myTab2">
-					<li class="active" onclick="nTabs(this,0);">页面发布</li>
-					<li class="normal" onclick="nTabs(this,1);">个人博客</li>
-					<li class="normal" onclick="nTabs(this,2);">论坛(游客下载)</li>
-					<li class="normal" onclick="nTabs(this,3);">论坛(注册下载)</li>
-					<li class="normal" onclick="nTabs(this,4);">高清资源</li>
+					<li class="active" onclick="nTabs(this,0);">综合</li>
+					<li class="normal" onclick="nTabs(this,1);">电影</li>
+					<li class="normal" onclick="nTabs(this,2);">电视</li>
+					<li class="normal" onclick="nTabs(this,3);">动漫</li>
 						</ul>
 					</div>
 					<div id="myTab2_Content0">
@@ -351,27 +328,17 @@
 						</div>
 					</div>
 					</div>
-					<div id="myTab2_Content4" class="none">
-					<div class="post-topic-area">下载类</div>	
-					<div id="topics-wrapper">
-						<div class="topic-detail">
-							<div class="col5">
-							<ol>%content24%</ol>
-							</div>
-						</div>
-					</div>
-					</div>
 					</div>
 					<div class="TabContent">
 					<div class="TabTitle TabTitlex"> 
 						<ul id="myTab3">
-					<li class="active" onclick="nTabs(this,0);">综合</li>
-					<li class="normal" onclick="nTabs(this,1);">电视</li>
-					<li class="normal" onclick="nTabs(this,2);">国外</li>
+					<li class="active" onclick="nTabs(this,0);">资料库</li>
+					<li class="normal" onclick="nTabs(this,1);">影视资讯</li>
+					<li class="normal" onclick="nTabs(this,2);">影视评论</li>
 						</ul>
 					</div>
-					<div id="myTab3_Content0" class="none">
-					<div class="post-topic-area">在线观看类</div>	
+					<div id="myTab3_Content0">
+					<div class="post-topic-area">影库</div>	
 					<div id="topics-wrapper">
 						<div class="topic-detail">
 							<div class="col5">
@@ -381,8 +348,8 @@
 					</div>
 
 					</div>
-					<div id="myTab3_Content1">
-					<div class="post-topic-area">在线观看类</div>	
+					<div id="myTab3_Content1" class="none">
+					<div class="post-topic-area">影库</div>	
 					<div id="topics-wrapper">
 						<div class="topic-detail">
 							<div class="col5">
@@ -392,7 +359,17 @@
 					</div>
 					</div>
 					<div id="myTab3_Content2" class="none">
-					<div class="post-topic-area">在线观看类</div>	
+					<div class="post-topic-area">影库</div>	
+					<div id="topics-wrapper">
+						<div class="topic-detail">
+							<div class="col5">
+							<ol>%content32%</ol>
+							</div>
+						</div>
+					</div>
+					</div>
+					<div id="myTab3_Content3" class="none">
+					<div class="post-topic-area">影库</div>	
 					<div id="topics-wrapper">
 						<div class="topic-detail">
 							<div class="col5">
@@ -404,122 +381,20 @@
 					</div>
 					<div class="TabContent">
 					<div class="TabTitle TabTitlex"> 
-						<ul id="myTab4">
-					<li class="active" onclick="nTabs(this,0);">综合</li>
-					<li class="normal" onclick="nTabs(this,1);">电视</li>
-					<li class="normal" onclick="nTabs(this,2);">国外</li>
+						<ul id="myTab3">
+					<li class="active" onclick="nTabs(this,0);">字幕</li>
+					<li class="normal" onclick="nTabs(this,1);">购票</li>
+					<li class="normal" onclick="nTabs(this,2);"></li>
 						</ul>
 					</div>
-					<div id="myTab4_Content0" class="none">
-					<div class="post-topic-area">在线观看类</div>	
+					<div id="myTab3_Content0">					
+					<div class="post-topic-area">影视服务</div>	
 					<div id="topics-wrapper">
 						<div class="topic-detail">
 							<div class="col5">
 							<ol>%content40%</ol>
 							</div>
 						</div>
-					</div>
-
-					</div>
-					<div id="myTab4_Content1">
-					<div class="post-topic-area">在线观看类</div>	
-					<div id="topics-wrapper">
-						<div class="topic-detail">
-							<div class="col5">
-							<ol>%content41%</ol>
-							</div>
-						</div>
-					</div>
-					</div>
-					<div id="myTab4_Content2" class="none">
-					<div class="post-topic-area">在线观看类</div>	
-					<div id="topics-wrapper">
-						<div class="topic-detail">
-							<div class="col5">
-							<ol>%content42%</ol>
-							</div>
-						</div>
-					</div>
-					</div>
-					</div>
-					<div class="TabContent">
-					<div class="TabTitle TabTitlex"> 
-						<ul id="myTab5">
-					<li class="active" onclick="nTabs(this,0);">综合</li>
-					<li class="normal" onclick="nTabs(this,1);">电视</li>
-					<li class="normal" onclick="nTabs(this,2);">国外</li>
-						</ul>
-					</div>
-					<div id="myTab5_Content0" class="none">
-					<div class="post-topic-area">在线观看类</div>	
-					<div id="topics-wrapper">
-						<div class="topic-detail">
-							<div class="col5">
-							<ol>%content50%</ol>
-							</div>
-						</div>
-					</div>
-
-					</div>
-					<div id="myTab5_Content1">
-					<div class="post-topic-area">在线观看类</div>	
-					<div id="topics-wrapper">
-						<div class="topic-detail">
-							<div class="col5">
-							<ol>%content51%</ol>
-							</div>
-						</div>
-					</div>
-					</div>
-					<div id="myTab5_Content2" class="none">
-					<div class="post-topic-area">在线观看类</div>	
-					<div id="topics-wrapper">
-						<div class="topic-detail">
-							<div class="col5">
-							<ol>%content52%</ol>
-							</div>
-						</div>
-					</div>
-					</div>
-					</div>
-					<div class="TabContent">
-					<div class="TabTitle TabTitlex"> 
-						<ul id="myTab6">
-					<li class="active" onclick="nTabs(this,0);">综合</li>
-					<li class="normal" onclick="nTabs(this,1);">电视</li>
-					<li class="normal" onclick="nTabs(this,2);">国外</li>
-						</ul>
-					</div>
-					<div id="myTab6_Content0" class="none">
-					<div class="post-topic-area">在线观看类</div>	
-					<div id="topics-wrapper">
-						<div class="topic-detail">
-							<div class="col5">
-							<ol>%content60%</ol>
-							</div>
-						</div>
-					</div>
-
-					</div>
-					<div id="myTab6_Content1">
-					<div class="post-topic-area">在线观看类</div>	
-					<div id="topics-wrapper">
-						<div class="topic-detail">
-							<div class="col5">
-							<ol>%content61%</ol>
-							</div>
-						</div>
-					</div>
-					</div>
-					<div id="myTab6_Content2" class="none">
-					<div class="post-topic-area">在线观看类</div>	
-					<div id="topics-wrapper">
-						<div class="topic-detail">
-							<div class="col5">
-							<ol>%content62%</ol>
-							</div>
-						</div>
-					</div>
 					</div>
 					</div>
 				</div>

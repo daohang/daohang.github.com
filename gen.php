@@ -9,6 +9,8 @@ $DH_output_site = dh_file_get_contents($DH_input_html);
 
 $DH_output = str_replace("%content10%",getcontent1($DH_output_site,'1'),$DH_output);	
 $DH_output = str_replace("%content20%",getcontent1($DH_output_site,'2'),$DH_output);
+$DH_output = str_replace("%content30%",getcontent1($DH_output_site,'3'),$DH_output);
+$DH_output = str_replace("%content40%",getcontent1($DH_output_site,'4'),$DH_output);
 
 $DH_output_file = 'index.html';
 dh_file_put_contents($DH_output_file,$DH_output);
