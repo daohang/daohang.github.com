@@ -207,7 +207,7 @@
 					</div>
 					<div class="TabContent">
 						<div id="myTab0_Content0">
-							<div class="post-topic-area">影视相关软件</div>	
+							<div class="post-topic-area">影视软件</div>	
 							<div id="topics-wrapper">
 								<div class="topic-detail">
 									<div class="col6">
@@ -245,7 +245,7 @@
 						</ul>
 					</div>
 					<div id="myTab1_Content0">
-					<div class="post-topic-area">在线类</div>	
+					<div class="post-topic-area">在线观看</div>	
 					<div id="topics-wrapper">
 						<div class="topic-detail">
 							<div class="col5">
@@ -256,7 +256,7 @@
 					</div>
 
 					<div id="myTab1_Content1" class="none">
-					<div class="post-topic-area">在线类</div>	
+					<div class="post-topic-area">在线观看</div>	
 					<div id="topics-wrapper">
 						<div class="topic-detail">
 							<div class="col5">
@@ -267,7 +267,7 @@
 					</div>
 
 					<div id="myTab1_Content2" class="none">
-					<div class="post-topic-area">在线类</div>	
+					<div class="post-topic-area">在线观看</div>	
 					<div id="topics-wrapper">
 						<div class="topic-detail">
 							<div class="col5">
@@ -288,7 +288,7 @@
 						</ul>
 					</div>
 					<div id="myTab2_Content0">
-					<div class="post-topic-area">下载类</div>	
+					<div class="post-topic-area">下载资源</div>	
 					<div id="topics-wrapper">
 						<div class="topic-detail">
 							<div class="col5">
@@ -299,7 +299,7 @@
 
 					</div>
 					<div id="myTab2_Content1" class="none">
-					<div class="post-topic-area">下载类</div>	
+					<div class="post-topic-area">下载资源</div>	
 					<div id="topics-wrapper">
 						<div class="topic-detail">
 							<div class="col5">
@@ -309,7 +309,7 @@
 					</div>
 					</div>
 					<div id="myTab2_Content2" class="none">
-					<div class="post-topic-area">下载类</div>	
+					<div class="post-topic-area">下载资源</div>	
 					<div id="topics-wrapper">
 						<div class="topic-detail">
 							<div class="col5">
@@ -319,7 +319,7 @@
 					</div>
 					</div>
 					<div id="myTab2_Content3" class="none">
-					<div class="post-topic-area">下载类</div>	
+					<div class="post-topic-area">下载资源</div>	
 					<div id="topics-wrapper">
 						<div class="topic-detail">
 							<div class="col5">
@@ -335,10 +335,11 @@
 					<li class="active" onclick="nTabs(this,0);">资料库</li>
 					<li class="normal" onclick="nTabs(this,1);">影视资讯</li>
 					<li class="normal" onclick="nTabs(this,2);">影视评论</li>
+					<li class="normal" onclick="nTabs(this,3);">微博推荐</li>
 						</ul>
 					</div>
 					<div id="myTab3_Content0">
-					<div class="post-topic-area">影库</div>	
+					<div class="post-topic-area">影视推荐</div>	
 					<div id="topics-wrapper">
 						<div class="topic-detail">
 							<div class="col5">
@@ -349,7 +350,7 @@
 
 					</div>
 					<div id="myTab3_Content1" class="none">
-					<div class="post-topic-area">影库</div>	
+					<div class="post-topic-area">影视推荐</div>	
 					<div id="topics-wrapper">
 						<div class="topic-detail">
 							<div class="col5">
@@ -359,7 +360,7 @@
 					</div>
 					</div>
 					<div id="myTab3_Content2" class="none">
-					<div class="post-topic-area">影库</div>	
+					<div class="post-topic-area">影视推荐</div>	
 					<div id="topics-wrapper">
 						<div class="topic-detail">
 							<div class="col5">
@@ -369,7 +370,7 @@
 					</div>
 					</div>
 					<div id="myTab3_Content3" class="none">
-					<div class="post-topic-area">影库</div>	
+					<div class="post-topic-area">影视推荐</div>	
 					<div id="topics-wrapper">
 						<div class="topic-detail">
 							<div class="col5">
@@ -381,13 +382,13 @@
 					</div>
 					<div class="TabContent">
 					<div class="TabTitle TabTitlex"> 
-						<ul id="myTab3">
+						<ul id="myTab4">
 					<li class="active" onclick="nTabs(this,0);">字幕</li>
 					<li class="normal" onclick="nTabs(this,1);">购票</li>
 					<li class="normal" onclick="nTabs(this,2);"></li>
 						</ul>
 					</div>
-					<div id="myTab3_Content0">					
+					<div id="myTab4_Content0">					
 					<div class="post-topic-area">影视服务</div>	
 					<div id="topics-wrapper">
 						<div class="topic-detail">
@@ -397,6 +398,16 @@
 						</div>
 					</div>
 					</div>
+					<div id="myTab4_Content1" class="none">
+					<div class="post-topic-area">影视服务</div>	
+					<div id="topics-wrapper">
+						<div class="topic-detail">
+							<div class="col5">
+							<ol>%content41%</ol>
+							</div>
+						</div>
+					</div>
+					</div>					
 				</div>
 				<!-- archives -->
 			</div>
