@@ -1,9 +1,9 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN" xml:lang="zh-CN">
 <head>
-	<title>二手电影-影视网址,专业导航</title>
+	<title>二手电影网-影视网址,专业导航</title>
 	<meta name="keywords" content="影视网址导航,影视网站导航,影视站点导航,导航,影视网址,影视站点"/>
-	<meta name="description" content="二手电影(movie002.com)实时搜集、归类、整理、分享各种影视作品（包括电影、电视剧、综艺、动漫）的影片信息、影片评分、影片热度、预告片、资源下载、购票链接、在线资源以及相关影视评论、资讯、活动的链接，致力于让用户全面地访问到一个影视作品的所有相关优质资源。" />
+	<meta name="description" content="二手电影网(www.movie002.com)搜集、归类、整理、分享各种影视类网站的网址，致力于让用户全面地访问到一个影视网站的所有相关优质资源。" />
 		<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<meta http-equiv="Content-Language" content="zh-CN">	
@@ -67,108 +67,39 @@
 		<div class="topnav menunav">
 			<div>
 				<ul>
-					<li><a href="http://127.0.0.1/movie/index.html#movie1" title="">电影大片</a>
+					<li><a href="http://127.0.0.1/movie/index.html#movie1" title="">影视软件</a>
+					</li>
+					<li><a href="http://127.0.0.1/movie/index.html#movie2" title="">在线观看</a>
 						<ul>
-							<li><a href="http://127.0.0.1/movie/index/1_o/1.html" title="">正在上映</a></li>
-							<li><a href="http://127.0.0.1/movie/index/1_i/1.html" title="">马上登陆</a></li>						
-							<li><a href="#" title="">最新资源</a>
-								<ul>
-									<li><a href="http://127.0.0.1/movie/index/1_t/1.html" title="">全部最新</a>
-										<ul>											
-											<li><a href="http://127.0.0.1/movie/index/1_1_t/1.html" title="">华语</a></li>
-											<li><a href="http://127.0.0.1/movie/index/1_2_t/1.html" title="">欧美</a></li>
-											<li><a href="http://127.0.0.1/movie/index/1_3_t/1.html" title="">日韩</a></li>
-											<li><a href="http://127.0.0.1/movie/index/1_4_t/1.html" title="">其他</a></li>
-										</ul>
-									</li>
-									<li><a href="http://127.0.0.1/movie/index/1_t/1.html" title="">精选最新</a>
-										<ul>
-											<li><a href="http://127.0.0.1/movie/index/1_1_l/1.html" title="">华语</a></li>
-											<li><a href="http://127.0.0.1/movie/index/1_2_l/1.html" title="">欧美</a></li>
-											<li><a href="http://127.0.0.1/movie/index/1_3_l/1.html" title="">日韩</a></li>
-											<li><a href="http://127.0.0.1/movie/index/1_4_l/1.html" title="">其他</a></li>
-										</ul>	
-									</li>
-								</ul>
-							</li>
-							<li><a href="http://127.0.0.1/movie/index/1_h/1.html" title="">热门资源</a>
-								<ul>
-									<li><a href="http://127.0.0.1/movie/index/1_1_h/1.html" title="">华语</a></li>
-									<li><a href="http://127.0.0.1/movie/index/1_2_h/1.html" title="">欧美</a></li>
-									<li><a href="http://127.0.0.1/movie/index/1_3_h/1.html" title="">日韩</a></li>
-									<li><a href="http://127.0.0.1/movie/index/1_4_h/1.html" title="">其他</a></li>
-								</ul>
-							</li>
-							<li><a href="http://127.0.0.1/movie/index/1_c/1.html" title="">高清资源</a>
-								<ul>
-									<li><a href="http://127.0.0.1/movie/index/1_1_c/1.html" title="">华语</a></li>
-									<li><a href="http://127.0.0.1/movie/index/1_2_c/1.html" title="">欧美</a></li>
-									<li><a href="http://127.0.0.1/movie/index/1_3_c/1.html" title="">日韩</a></li>
-									<li><a href="http://127.0.0.1/movie/index/1_4_c/1.html" title="">其他</a></li>
-								</ul>
-							</li>					
+							<li><a href="#" title="">综合</a></li>
+							<li><a href="http://127.0.0.1/movie/index/2_h/1.html" title="">电影</a></li>
+							<li><a href="http://127.0.0.1/movie/index/2_c/1.html" title="">电视</a></li>
+							<li><a href="http://127.0.0.1/movie/index/2_c/1.html" title="">其他</a></li>
 						</ul>
 					</li>
-					<li><a href="http://127.0.0.1/movie/index.html#movie2" title="">电视剧集</a>
+					<li><a href="http://127.0.0.1/movie/index.html#movie2" title="">下载资源</a>
 						<ul>
-							<li><a href="#" title="">最新资源</a>
-								<ul>
-									<li><a href="http://127.0.0.1/movie/index/2_t/1.html" title="">全部最新</a>
-										<ul>											
-											<li><a href="http://127.0.0.1/movie/index/2_1_t/1.html" title="">华语</a></li>
-											<li><a href="http://127.0.0.1/movie/index/2_2_t/1.html" title="">欧美</a></li>
-											<li><a href="http://127.0.0.1/movie/index/2_3_t/1.html" title="">日韩</a></li>
-											<li><a href="http://127.0.0.1/movie/index/2_4_t/1.html" title="">其他</a></li>
-										</ul>
-									</li>
-									<li><a href="http://127.0.0.1/movie/index/2_t/1.html" title="">精选最新</a>
-										<ul>
-											<li><a href="http://127.0.0.1/movie/index/2_1_l/1.html" title="">华语</a></li>
-											<li><a href="http://127.0.0.1/movie/index/2_2_l/1.html" title="">欧美</a></li>
-											<li><a href="http://127.0.0.1/movie/index/2_3_l/1.html" title="">日韩</a></li>
-											<li><a href="http://127.0.0.1/movie/index/2_4_l/1.html" title="">其他</a></li>
-										</ul>	
-									</li>
-								</ul>
-							</li>
-							<li><a href="http://127.0.0.1/movie/index/2_h/1.html" title="">热门资源</a>
-								<ul>
-									<li><a href="http://127.0.0.1/movie/index/2_1_h/1.html" title="">华语</a></li>
-									<li><a href="http://127.0.0.1/movie/index/2_2_h/1.html" title="">欧美</a></li>
-									<li><a href="http://127.0.0.1/movie/index/2_3_h/1.html" title="">日韩</a></li>
-									<li><a href="http://127.0.0.1/movie/index/2_4_h/1.html" title="">其他</a></li>
-								</ul>
-							</li>
-							<li><a href="http://127.0.0.1/movie/index/2_c/1.html" title="">高清资源</a>
-								<ul>
-									<li><a href="http://127.0.0.1/movie/index/2_1_c/1.html" title="">华语</a></li>
-									<li><a href="http://127.0.0.1/movie/index/2_2_c/1.html" title="">欧美</a></li>
-									<li><a href="http://127.0.0.1/movie/index/2_3_c/1.html" title="">日韩</a></li>
-									<li><a href="http://127.0.0.1/movie/index/2_4_c/1.html" title="">其他</a></li>
-								</ul>
-							</li>					
-						</ul>
-					</li>					
-					<li><a href="http://127.0.0.1/movie/index.html#movie3" title="">综艺节目</a>
-						<ul>
-							<li><a href="#" title="">最新资源</a>
-								<ul>
-									<li><a href="http://127.0.0.1/movie/index/3_l/1.html" title="">全部最新</a></li>
-									<li><a href="http://127.0.0.1/movie/index/3_t/1.html" title="">精选最新</a></li>
-								</ul>
-							</li>
-							<li><a href="http://127.0.0.1/movie/index/3_h/1.html" title="">热门资源</a></li>				
+							<li><a href="#" title="">综合</a></li>
+							<li><a href="http://127.0.0.1/movie/index/2_h/1.html" title="">电影</a></li>
+							<li><a href="http://127.0.0.1/movie/index/2_c/1.html" title="">电视</a></li>
+							<li><a href="http://127.0.0.1/movie/index/2_c/1.html" title="">其他</a></li>
 						</ul>
 					</li>
-					<li><a href="http://127.0.0.1/movie/index.html#movie4" title="">动漫资源</a>
+					<li><a href="http://127.0.0.1/movie/index.html#movie2" title="">影视推荐</a>
 						<ul>
-							<li><a href="#" title="">最新资源</a>
-								<ul>
-									<li><a href="http://127.0.0.1/movie/index/4_l/1.html" title="">全部最新</a></li>
-									<li><a href="http://127.0.0.1/movie/index/4_t/1.html" title="">精选最新</a></li>
-								</ul>
-							</li>
-							<li><a href="http://127.0.0.1/movie/index/3_h/1.html" title="">热门资源</a></li>				
+							<li><a href="#" title="">影视库</a></li>
+							<li><a href="http://127.0.0.1/movie/index/2_h/1.html" title="">影视资讯</a></li>
+							<li><a href="http://127.0.0.1/movie/index/2_c/1.html" title="">影视评论</a></li>
+							<li><a href="http://127.0.0.1/movie/index/2_c/1.html" title="">微博推荐</a></li>
+						</ul>
+					</li>
+					<li><a href="http://127.0.0.1/movie/index.html#movie2" title="">影视服务</a>
+						<ul>
+							<li><a href="#" title="">字幕</a></li>
+							<li><a href="http://127.0.0.1/movie/index/2_h/1.html" title="">购票</a></li>
+							<li><a href="http://127.0.0.1/movie/index/2_c/1.html" title="">活动</a></li>
+							<li><a href="http://127.0.0.1/movie/index/2_c/1.html" title="">公司</a></li>
+							<li><a href="http://127.0.0.1/movie/index/2_c/1.html" title="">帮助</a></li>
 						</ul>
 					</li>					
 				</ul>
@@ -180,6 +111,7 @@
 		<!-- header -->
 		<div id="middle" class="width_2">
 			<div id="content_index">
+				</br>
 				<div id="archives">
 					<div style="text-align:center;font-size:12px;margin:0 0 5px 0">
 						<div class="search-tabs">
@@ -188,16 +120,10 @@
 							百度视频
 							<Input type=checkbox value=google name=google> 
 							google视频
-							<Input type=checkbox value=yahoo name=yahoo> 
-							23 
-							<Input type=checkbox value=sina name=sina> 
-							新浪 
-							<Input type=checkbox CHECKED value=sohu name=sohu> 
-							搜狐 
-							<Input type=checkbox value=yeah name=yeah> 
-							网易 
-							<Input type=checkbox value=sqey name=sqey> 
-							3721
+							<Input type=checkbox CHECKED value=qihu name=qihu> 
+							360影视 
+							<Input type=checkbox CHECKED value=v2345 name=v2345> 
+							2345影视
 							</br></br>
 							<Input size=90 name=key id="submittext" class="searchinput" value="请输入资源名"> 
 							<Input type=submit value=搜索 class="searchsubmit" name=submit>
@@ -242,6 +168,7 @@
 					<li class="normal" onclick="nTabs(this,1);">电影</li>
 					<li class="normal" onclick="nTabs(this,2);">电视</li>
 					<li class="normal" onclick="nTabs(this,3);">动漫</li>
+					<li class="normal" onclick="nTabs(this,4);">其他</li>
 						</ul>
 					</div>
 					<div id="myTab1_Content0">
@@ -272,6 +199,28 @@
 						<div class="topic-detail">
 							<div class="col5">
 							<ol>%content12%</ol>
+							</div>
+						</div>
+					</div>					
+					</div>
+					
+					<div id="myTab1_Content3" class="none">
+					<div class="post-topic-area">在线观看</div>	
+					<div id="topics-wrapper">
+						<div class="topic-detail">
+							<div class="col5">
+							<ol>%content13%</ol>
+							</div>
+						</div>
+					</div>
+					</div>
+
+					<div id="myTab1_Content4" class="none">
+					<div class="post-topic-area">在线观看</div>	
+					<div id="topics-wrapper">
+						<div class="topic-detail">
+							<div class="col5">
+							<ol>%content14%</ol>
 							</div>
 						</div>
 					</div>
@@ -332,10 +281,11 @@
 					<div class="TabContent">
 					<div class="TabTitle TabTitlex"> 
 						<ul id="myTab3">
-					<li class="active" onclick="nTabs(this,0);">资料库</li>
-					<li class="normal" onclick="nTabs(this,1);">影视资讯</li>
-					<li class="normal" onclick="nTabs(this,2);">影视评论</li>
-					<li class="normal" onclick="nTabs(this,3);">微博推荐</li>
+					<li class="active" onclick="nTabs(this,0);">影视导航</li>
+					<li class="normal" onclick="nTabs(this,1);">影视资料</li>
+					<li class="normal" onclick="nTabs(this,2);">影视资讯</li>
+					<li class="normal" onclick="nTabs(this,3);">影视评论</li>
+					<li class="normal" onclick="nTabs(this,4);">微博推荐</li>
 						</ul>
 					</div>
 					<div id="myTab3_Content0">
@@ -347,8 +297,8 @@
 							</div>
 						</div>
 					</div>
-
 					</div>
+					
 					<div id="myTab3_Content1" class="none">
 					<div class="post-topic-area">影视推荐</div>	
 					<div id="topics-wrapper">
@@ -359,6 +309,7 @@
 						</div>
 					</div>
 					</div>
+					
 					<div id="myTab3_Content2" class="none">
 					<div class="post-topic-area">影视推荐</div>	
 					<div id="topics-wrapper">
@@ -374,7 +325,17 @@
 					<div id="topics-wrapper">
 						<div class="topic-detail">
 							<div class="col5">
-							<ol>%content32%</ol>
+							<ol>%content33%</ol>
+							</div>
+						</div>
+					</div>
+					</div>
+					<div id="myTab3_Content4" class="none">
+					<div class="post-topic-area">影视推荐</div>	
+					<div id="topics-wrapper">
+						<div class="topic-detail">
+							<div class="col5">
+							<ol>%content34%</ol>
 							</div>
 						</div>
 					</div>
@@ -426,7 +387,7 @@
 				<a href="http://movie002.com/html/links.html">友情链接</a> | 
 				<a href="http://weibo.com/movie002" target="_blank" rel="nofollow">新浪微博</a> |
 				<a href="http://t.qq.com/movie002" target="_blank" rel="nofollow">腾讯微博</a> |
-				<a href="javascript:void(0);" onclick="AddFavorite('二手电影-影视资源搜集分享',location.href)">收藏本站</a>	
+				<a href="javascript:void(0);" onclick="AddFavorite('二手电影-影视网址,专业导航',location.href)">收藏本站</a>	
 		   </div>
 			<div class="cpright colorlittle">
 			© 2013 - 2018 &nbsp;<a href="http://movie002.com/">二手电影网</a> &nbsp;All Rights Reserved. &nbsp;
@@ -448,26 +409,18 @@
 	eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('d f(i){6 g=\'\';6 j=c.H(\'1J\');v(i==0){j[0].8=l;j[1].8=9;j[2].8=9;j[3].8=9;j[4].8=9;j[5].8=9;g="V://1K.0.0.1/1v/1j.1f"}W{j[1].Q=j[0].Q;j[0].8=9;j[1].8=l;j[2].8=l;j[3].8=l;j[4].8=l;j[5].8=l;g="V://1r.L.1q/L"}c.O.1t=g;c.O.1u();P 9};d K(){6 B=1y 1x();6 h=B.1w();6 m=B.1o();6 s=B.1m();m=J(m);s=J(s);c.19(\'1h\').1d=h+":"+m+":"+s;t=1e(\'K()\',1i)};d J(i){v(i<10){i="0"+i}P i};d 17(){6 7=c.H(\'k\');11(6 i=0;i<7.T;i++){6 G=7[i].b(\'1k-r\');v(G!=U)7[i].1A(\'r\',G)}};c.1F("Z");d 18(){6 7=c.H(\'Z\');11(6 i=0;i<7.T;i++){6 x=7[i].b(\'x\');6 z=7[i].b(\'z\');6 u=7[i].b(\'u\');6 p=7[i].b(\'p\');6 w=p;6 o=7[i].b(\'o\');6 C=7[i].b(\'C\');v(C!=U){w=7[i].b(\'w\');q[\'k\'+i]=\'<A 14="0" X="0" y="1W-1V:1T"><a 12="\'+x+\'" Y="R"><k y="M:N;E:\'+u+\';F:\'+p+\';" r="\'+z+\'" o="\'+o+\'的图片" 13="15"/></a><S y="1N-1O:1E;1D-1B:1C;">\'+C+\'</S></A>\'}W{q[\'k\'+i]=\'<A 14="0" X="0"><a 12="\'+x+\'" Y="R"><k y="M:N;E:\'+u+\';F:\'+p+\';" r="\'+z+\'" o="\'+o+\'的图片" 13="15"/></a></A>\'}6 1c=7[i].1s;1c.1d=\'<1a 1Q="9" r="1G:1n[\\\'k\'+i+\'\\\'];" 1I="0" 1M="1H" E="\'+u+\'" F="\'+w+\'"></1a>\'}};                     d 1X(I,g){    16{        q.1U.1P(g,I);    }    1b(e){        16{            q.1R.1S(I,g,"");        }        1b(e){            1l("抱歉，您所使用的浏览器无法完成此操作。\\n\\n加入收藏失败，请使用1z+D进行添加");        }    }};q.1p=d(){K();17();18();c.19(\'1g\').1L()};',62,122,'||||||var|imgTags|disabled|true||getAttribute|document|function|||url||||img|false|||alt|src_height|window|src|||src_width|if|frm_height|link_src|style|img_src|body|today|name||width|height|imgSrc|getElementsByTagName|title|checkTime|startTime|baidu|border|none|f1|return|value|_blank|div|length|null|http|else|topmargin|target|imgdao||for|href|rel|leftmargin|nofollow|try|loadimg|showImgs|getElementById|iframe|catch|clilddiv|innerHTML|setTimeout|html|submittext|txt|500|cse|data|alert|getSeconds|parent|getMinutes|onload|com|www|firstChild|action|submit|movie|getHours|Date|new|Ctrl|setAttribute|align|center|text|12px|createElement|javascript|no|frameBorder|input|127|focus|scrolling|font|size|addFavorite|allowtransparency|sidebar|addPanel|transparent|external|color|background|AddFavorite'.split('|'),0,{}))
 	</script>
 	<script type="text/javascript">
-	function search4()
-	{
-		if(websearch.google.checked)
-		window.open("https://www.google.com.hk/#fp=3fc7d553c67fc4da&hl=zh-CN&q="+websearch.key.value,"mspg6");
-		if(websearch.baidu.checked)
-		window.open("http://v.baidu.com/v?word="+websearch.key.value,"mspg9");
-		if(websearch.sina.checked)
-		window.open("http://search.sina.com.cn/cgi-bin/search/search.cgi?_searchkey="+websearch.key.value,"mspg0");
-		if(websearch.sohu.checked)
-		window.open("http://www.sogou.com/websearch/corp/search.jsp?query="+websearch.key.value+"&searchtype=1&pid=k688&class=1&cpc=SOGOU","mspg1");
-		if(websearch.yahoo.checked)
-		window.open("http://www.yisou.com/search?p="+websearch.key.value,"mspg2");
-		if(websearch.yeah.checked)
-		window.open("http://cha.so.163.com/psearch.php?q="+websearch.key.value,"mspg3");
-		if(websearch.sqey.checked)
-		//window.open("http://cns.3721.com/cns.dll?argse=new3721&fw=home&p="+websearch.key.value,"mspg5"); 
-		window.open("http://search.union.3721.com/click/search.htm?fw=union&m=44822&p=1006&name="+websearch.key.value,"mspg5");
-
-		return false; 
-	}
+		function search4()
+		{
+			if(websearch.google.checked)
+			window.open("https://www.google.com.hk/search?tbm=vid&hl=zh-CN&source=hp&q="+websearch.key.value,"mspg6");
+			if(websearch.baidu.checked)
+			window.open("http://v.hao123.com/v?word="+websearch.key.value,"mspg9");
+			if(websearch.qihu.checked)
+			window.open("http://so.v.360.cn/index.php?kw="+websearch.key.value,"mspg0");
+			if(websearch.v2345.checked)
+			window.open("http://so.v.2345.com/search_"+websearch.key.value,"mspg1");
+			return false; 
+		}
 	</script>	
 </body>
 </html>
