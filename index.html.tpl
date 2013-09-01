@@ -1,9 +1,9 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN" xml:lang="zh-CN">
 <head>
-	<title>二手电影网-影视网址,专业导航</title>
-	<meta name="keywords" content="影视网址导航,影视网站导航,影视站点导航,导航,影视网址,影视站点"/>
-	<meta name="description" content="二手电影网(www.movie002.com)搜集、归类、整理、分享各种影视类网站的网址，致力于让用户全面地访问到一个影视网站的所有相关优质资源。" />
+	<title>二手电影网-影视网址导航</title>
+	<meta name="keywords" content="电影网址导航,影视网址导航,影视网站导航,影视站点导航,电视剧网址导航,影视,电影,电视,网址,网站,导航"/>
+	<meta name="description" content="二手电影(www.movie002.com)是电影网址导航、电视剧网址导航，影视网址导航网站。其搜集、归类、整理、分享各种影视类网站的网址，给用户导航，致力于让用户全面地访问到一个影视网站的所有相关优质资源。" />
 		<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<meta http-equiv="Content-Language" content="zh-CN">	
@@ -346,7 +346,9 @@
 						<ul id="myTab4">
 					<li class="active" onclick="nTabs(this,0);">字幕</li>
 					<li class="normal" onclick="nTabs(this,1);">购票</li>
-					<li class="normal" onclick="nTabs(this,2);"></li>
+					<li class="normal" onclick="nTabs(this,2);">公司组织</li>
+					<li class="normal" onclick="nTabs(this,3);">电影节</li>
+					<li class="normal" onclick="nTabs(this,4);">电影院</li>
 						</ul>
 					</div>
 					<div id="myTab4_Content0">					
@@ -368,7 +370,37 @@
 							</div>
 						</div>
 					</div>
-					</div>					
+					</div>
+					<div id="myTab4_Content2" class="none">
+					<div class="post-topic-area">影视服务</div>	
+					<div id="topics-wrapper">
+						<div class="topic-detail">
+							<div class="col5">
+							<ol>%content42%</ol>
+							</div>
+						</div>
+					</div>
+					</div>	
+					<div id="myTab4_Content3" class="none">
+					<div class="post-topic-area">影视服务</div>	
+					<div id="topics-wrapper">
+						<div class="topic-detail">
+							<div class="col5">
+							<ol>%content43%</ol>
+							</div>
+						</div>
+					</div>
+					</div>
+					<div id="myTab4_Content4" class="none">
+					<div class="post-topic-area">影视服务</div>	
+					<div id="topics-wrapper">
+						<div class="topic-detail">
+							<div class="col5">
+							<ol>%content44%</ol>
+							</div>
+						</div>
+					</div>
+					</div>						
 				</div>
 				<!-- archives -->
 			</div>
@@ -412,15 +444,24 @@
 		function search4()
 		{
 			if(websearch.google.checked)
-			window.open("https://www.google.com.hk/search?tbm=vid&hl=zh-CN&source=hp&q="+websearch.key.value,"mspg6");
+			openwin("https://www.google.com.hk/search?tbm=vid&hl=zh-CN&source=hp&q="+websearch.key.value,"mspg6");
 			if(websearch.baidu.checked)
-			window.open("http://v.hao123.com/v?word="+websearch.key.value,"mspg9");
+			openwin("http://v.hao123.com/v?word="+websearch.key.value,"mspg9");
 			if(websearch.qihu.checked)
-			window.open("http://so.v.360.cn/index.php?kw="+websearch.key.value,"mspg0");
+			openwin("http://so.v.360.cn/index.php?kw="+websearch.key.value,"mspg0");
 			if(websearch.v2345.checked)
-			window.open("http://so.v.2345.com/search_"+websearch.key.value,"mspg1");
+			openwin("http://so.v.2345.com/search_"+websearch.key.value,"mspg1");
 			return false; 
 		}
+		function openwin(url,id)
+		{
+			var a = document.createElement("a");
+			a.setAttribute("href", url);
+			a.setAttribute("target", "_blank");
+			a.setAttribute("id", id);
+			document.body.appendChild(a);
+			a.click();
+		}		
 	</script>	
 </body>
 </html>
