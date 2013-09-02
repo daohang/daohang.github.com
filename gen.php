@@ -14,6 +14,8 @@ foreach ($replacecontent1 as $key=>$eachrc)
 	$DH_output = str_replace("%content".$replacecontent1[$key].$replacecontent2[$key]."%",getcontent2($DH_output_site,$replacecontent1[$key],$replacecontent2[$key]),$DH_output);
 }
 
+$DH_output = str_replace("%home%",'http://www.movie002.com/',$DH_output);
+
 $DH_output_file = 'index.html';
 dh_file_put_contents($DH_output_file,$DH_output);
 
