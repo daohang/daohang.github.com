@@ -164,11 +164,11 @@
 					<div class="TabContent">
 					<div class="TabTitle TabTitlex"> 
 						<ul id="myTab1">
-					<li class="active" onclick="nTabs(this,0);">综合</li>
-					<li class="normal" onclick="nTabs(this,1);">电影</li>
-					<li class="normal" onclick="nTabs(this,2);">电视</li>
-					<li class="normal" onclick="nTabs(this,3);">动漫</li>
-					<li class="normal" onclick="nTabs(this,4);">其他</li>
+					<li class="active" onclick="nTabs(this,0);">综合(%10%)</li>
+					<li class="normal" onclick="nTabs(this,1);">电影(%11%)</li>
+					<li class="normal" onclick="nTabs(this,2);">电视(%12%)</li>
+					<li class="normal" onclick="nTabs(this,3);">动漫(%13%)</li>
+					<li class="normal" onclick="nTabs(this,4);">其他(%14%)</li>
 						</ul>
 					</div>
 					<div id="myTab1_Content0">
@@ -230,10 +230,10 @@
 					<div class="TabContent">
 					<div class="TabTitle TabTitlex"> 
 						<ul id="myTab2">
-					<li class="active" onclick="nTabs(this,0);">综合</li>
-					<li class="normal" onclick="nTabs(this,1);">电影</li>
-					<li class="normal" onclick="nTabs(this,2);">电视</li>
-					<li class="normal" onclick="nTabs(this,3);">动漫</li>
+					<li class="active" onclick="nTabs(this,0);">综合(%20%)</li>
+					<li class="normal" onclick="nTabs(this,1);">电影(%21%)</li>
+					<li class="normal" onclick="nTabs(this,2);">电视(%22%)</li>
+					<li class="normal" onclick="nTabs(this,3);">动漫(%23%)</li>
 						</ul>
 					</div>
 					<div id="myTab2_Content0">
@@ -281,11 +281,11 @@
 					<div class="TabContent">
 					<div class="TabTitle TabTitlex"> 
 						<ul id="myTab3">
-					<li class="active" onclick="nTabs(this,0);">影视导航</li>
-					<li class="normal" onclick="nTabs(this,1);">影视资料</li>
-					<li class="normal" onclick="nTabs(this,2);">影视资讯</li>
-					<li class="normal" onclick="nTabs(this,3);">影视评论</li>
-					<li class="normal" onclick="nTabs(this,4);">微博推荐</li>
+					<li class="active" onclick="nTabs(this,0);">影视导航(%30%)</li>
+					<li class="normal" onclick="nTabs(this,1);">影视资料(%31%)</li>
+					<li class="normal" onclick="nTabs(this,2);">影视资讯(%32%)</li>
+					<li class="normal" onclick="nTabs(this,3);">影视评论(%33%)</li>
+					<li class="normal" onclick="nTabs(this,4);">微博推荐(%34%)</li>
 						</ul>
 					</div>
 					<div id="myTab3_Content0">
@@ -344,11 +344,11 @@
 					<div class="TabContent">
 					<div class="TabTitle TabTitlex"> 
 						<ul id="myTab4">
-					<li class="active" onclick="nTabs(this,0);">字幕</li>
-					<li class="normal" onclick="nTabs(this,1);">购票</li>
-					<li class="normal" onclick="nTabs(this,2);">公司组织</li>
-					<li class="normal" onclick="nTabs(this,3);">电影节</li>
-					<li class="normal" onclick="nTabs(this,4);">电影院</li>
+					<li class="active" onclick="nTabs(this,0);">字幕(%40%)</li>
+					<li class="normal" onclick="nTabs(this,1);">购票(%41%)</li>
+					<li class="normal" onclick="nTabs(this,2);">公司组织(%42%)</li>
+					<li class="normal" onclick="nTabs(this,3);">电影节(%43%)</li>
+					<li class="normal" onclick="nTabs(this,4);">电影院(%44%)</li>
 						</ul>
 					</div>
 					<div id="myTab4_Content0">					

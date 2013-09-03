@@ -11,7 +11,8 @@ $replacecontent2=array('0','1','2','3','4','0','1','2','3','4','0','1','2','3','
 
 foreach ($replacecontent1 as $key=>$eachrc)
 {
-	$DH_output = str_replace("%content".$replacecontent1[$key].$replacecontent2[$key]."%",getcontent2($DH_output_site,$replacecontent1[$key],$replacecontent2[$key]),$DH_output);
+	$DH_output = getcontent2($DH_output_site,$replacecontent1[$key],$replacecontent2[$key],$DH_output);
+	//$DH_output = str_replace("%content".$replacecontent1[$key].$replacecontent2[$key]."%",getcontent2($DH_output_site,$replacecontent1[$key],$replacecontent2[$key]),$DH_output);
 }
 
 $DH_output = str_replace("%home%",'http://www.movie002.com/',$DH_output);
@@ -53,15 +54,16 @@ function getcontent1($DH_output_site,$r1)
 	return $DH_output_content;
 }
 
-function getcontent2($DH_output_site,$r1,$r2)
+function getcontent2($DH_output_site,$r1,$r2,$DH_output)
 {
 	$ret = preg_match_all('/<r><1>('.$r1.')<\/1><2>('.$r2.')<\/2><3>(.*?)<\/3><4>(.*?)<\/4><5>(.*?)<\/5><6>(.*?)<\/6><7>(.*?)<\/7><8>(.*?)<\/8><\/r>/s',$DH_output_site,$match);
 	//print_r($match);
 
 	$DH_output_content='';
-
+	$count=0;
 	foreach ($match[0] as $key=>$eachmatch)
 	{
+		$count++;
 		if(empty($match[7][$key]))
 			$DH_output_content.='<li><div class="siteall"><img width="16" height="16" data-src="'.$match[4][$key].'favicon.ico"/> <a href="'.$match[4][$key].'" target="_blank" rel="nofollow">'.$match[5][$key].'</a></div><div class="hotmeta1">'.$match[6][$key].'</div></li>';
 		else if($match[7][$key]=='null')
@@ -69,7 +71,10 @@ function getcontent2($DH_output_site,$r1,$r2)
 		else
 			$DH_output_content.='<li><div class="siteall"><img width="16" height="16" data-src="'.$match[7][$key].'"/> <a href="'.$match[4][$key].'" target="_blank" rel="nofollow">'.$match[5][$key].'</a></div><div class="hotmeta1">'.$match[6][$key].'</div></li>';
 	}
-	return $DH_output_content;
+	//return $DH_output_content;
+	$DH_output = str_replace("%content".$r1.$r2."%",$DH_output_content,$DH_output);
+	$DH_output = str_replace("%".$r1.$r2."%",$count,$DH_output);
+	return $DH_output;
 }
 
 function dh_file_get_contents($filename) 
