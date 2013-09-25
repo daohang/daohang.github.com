@@ -132,7 +132,7 @@
 						</div>					
 					</div>
 					<div class="TabContent">
-						<div id="myTab0_Content0">
+						<div id="myTab0_Content0" style="overflow:hidden;z-index:2;">
 							<div class="post-topic-area">影视软件</div>	
 							<div id="topics-wrapper">
 								<div class="topic-detail">
@@ -171,7 +171,7 @@
 					<li class="normal" onclick="nTabs(this,4);">其他(%14%)</li>
 						</ul>
 					</div>
-					<div id="myTab1_Content0">
+					<div id="myTab1_Content0" style="overflow:hidden;z-index:2;">
 					<div class="post-topic-area">在线观看</div>	
 					<div id="topics-wrapper">
 						<div class="topic-detail">
@@ -182,7 +182,7 @@
 					</div>
 					</div>
 
-					<div id="myTab1_Content1" class="none">
+					<div id="myTab1_Content1" class="none" style="overflow:hidden;z-index:2;">
 					<div class="post-topic-area">在线观看</div>	
 					<div id="topics-wrapper">
 						<div class="topic-detail">
@@ -193,7 +193,7 @@
 					</div>
 					</div>
 
-					<div id="myTab1_Content2" class="none">
+					<div id="myTab1_Content2" class="none" style="overflow:hidden;z-index:2;">
 					<div class="post-topic-area">在线观看</div>	
 					<div id="topics-wrapper">
 						<div class="topic-detail">
@@ -204,7 +204,7 @@
 					</div>					
 					</div>
 					
-					<div id="myTab1_Content3" class="none">
+					<div id="myTab1_Content3" class="none" style="overflow:hidden;z-index:2;">
 					<div class="post-topic-area">在线观看</div>	
 					<div id="topics-wrapper">
 						<div class="topic-detail">
@@ -215,7 +215,7 @@
 					</div>
 					</div>
 
-					<div id="myTab1_Content4" class="none">
+					<div id="myTab1_Content4" class="none" style="overflow:hidden;z-index:2;">
 					<div class="post-topic-area">在线观看</div>	
 					<div id="topics-wrapper">
 						<div class="topic-detail">
@@ -236,7 +236,7 @@
 					<li class="normal" onclick="nTabs(this,3);">动漫(%23%)</li>
 						</ul>
 					</div>
-					<div id="myTab2_Content0">
+					<div id="myTab2_Content0" style="overflow:hidden;z-index:2;">
 					<div class="post-topic-area">下载资源</div>	
 					<div id="topics-wrapper">
 						<div class="topic-detail">
@@ -247,7 +247,7 @@
 					</div>
 
 					</div>
-					<div id="myTab2_Content1" class="none">
+					<div id="myTab2_Content1" class="none" style="overflow:hidden;z-index:2;">
 					<div class="post-topic-area">下载资源</div>	
 					<div id="topics-wrapper">
 						<div class="topic-detail">
@@ -257,7 +257,7 @@
 						</div>
 					</div>
 					</div>
-					<div id="myTab2_Content2" class="none">
+					<div id="myTab2_Content2" class="none" style="overflow:hidden;z-index:2;">
 					<div class="post-topic-area">下载资源</div>	
 					<div id="topics-wrapper">
 						<div class="topic-detail">
@@ -267,7 +267,7 @@
 						</div>
 					</div>
 					</div>
-					<div id="myTab2_Content3" class="none">
+					<div id="myTab2_Content3" class="none" style="overflow:hidden;z-index:2;">
 					<div class="post-topic-area">下载资源</div>	
 					<div id="topics-wrapper">
 						<div class="topic-detail">
@@ -288,7 +288,7 @@
 					<li class="normal" onclick="nTabs(this,4);">微博推荐(%34%)</li>
 						</ul>
 					</div>
-					<div id="myTab3_Content0">
+					<div id="myTab3_Content0" style="overflow:hidden;z-index:2;">
 					<div class="post-topic-area">影视推荐</div>	
 					<div id="topics-wrapper">
 						<div class="topic-detail">
@@ -299,7 +299,7 @@
 					</div>
 					</div>
 					
-					<div id="myTab3_Content1" class="none">
+					<div id="myTab3_Content1" class="none" style="overflow:hidden;z-index:2;">
 					<div class="post-topic-area">影视推荐</div>	
 					<div id="topics-wrapper">
 						<div class="topic-detail">
@@ -310,7 +310,7 @@
 					</div>
 					</div>
 					
-					<div id="myTab3_Content2" class="none">
+					<div id="myTab3_Content2" class="none" style="overflow:hidden;z-index:2;">
 					<div class="post-topic-area">影视推荐</div>	
 					<div id="topics-wrapper">
 						<div class="topic-detail">
@@ -320,7 +320,7 @@
 						</div>
 					</div>
 					</div>
-					<div id="myTab3_Content3" class="none">
+					<div id="myTab3_Content3" class="none" style="overflow:hidden;z-index:2;">
 					<div class="post-topic-area">影视推荐</div>	
 					<div id="topics-wrapper">
 						<div class="topic-detail">
@@ -330,7 +330,7 @@
 						</div>
 					</div>
 					</div>
-					<div id="myTab3_Content4" class="none">
+					<div id="myTab3_Content4" class="none" style="overflow:hidden;z-index:2;">
 					<div class="post-topic-area">影视推荐</div>	
 					<div id="topics-wrapper">
 						<div class="topic-detail">
@@ -351,7 +351,7 @@
 					<li class="normal" onclick="nTabs(this,4);">电影院(%44%)</li>
 						</ul>
 					</div>
-					<div id="myTab4_Content0">					
+					<div id="myTab4_Content0" style="overflow:hidden;z-index:2;">					
 					<div class="post-topic-area">影视服务</div>	
 					<div id="topics-wrapper">
 						<div class="topic-detail">
@@ -361,7 +361,7 @@
 						</div>
 					</div>
 					</div>
-					<div id="myTab4_Content1" class="none">
+					<div id="myTab4_Content1" class="none" style="overflow:hidden;z-index:2;">
 					<div class="post-topic-area">影视服务</div>	
 					<div id="topics-wrapper">
 						<div class="topic-detail">
@@ -371,7 +371,7 @@
 						</div>
 					</div>
 					</div>
-					<div id="myTab4_Content2" class="none">
+					<div id="myTab4_Content2" class="none" style="overflow:hidden;z-index:2;">
 					<div class="post-topic-area">影视服务</div>	
 					<div id="topics-wrapper">
 						<div class="topic-detail">
@@ -381,7 +381,7 @@
 						</div>
 					</div>
 					</div>	
-					<div id="myTab4_Content3" class="none">
+					<div id="myTab4_Content3" class="none" style="overflow:hidden;z-index:2;">
 					<div class="post-topic-area">影视服务</div>	
 					<div id="topics-wrapper">
 						<div class="topic-detail">
@@ -391,7 +391,7 @@
 						</div>
 					</div>
 					</div>
-					<div id="myTab4_Content4" class="none">
+					<div id="myTab4_Content4" class="none" style="overflow:hidden;z-index:2;">
 					<div class="post-topic-area">影视服务</div>	
 					<div id="topics-wrapper">
 						<div class="topic-detail">
