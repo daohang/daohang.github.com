@@ -37,7 +37,7 @@
 			<span id="txt"></span>
 		</div>
 		<ul>
-			<li>影视 <a href="http://www.movie002.com/" title="影视网址导航">网址导航</a>｜<a href="http://movie002.com/" title="影视资源导航">资源导航</a></li>
+			<li>影视 <a style="font-weight:700" href="http://www.movie002.com/" title="影视网址导航">网址导航</a>｜<a href="http://movie002.com/" title="影视资源导航">资源导航</a></li>
 			<li><a href="#" id="movie002_day_1" onclick="SetCookie('movie002_day','day');window.location.reload();">日间模式</a>｜<a href="#" id="movie002_day_2" onclick="SetCookie('movie002_day','night'); window.location.reload();">夜间模式</a></li>
 			<li><a href="#" id="movie002_width_1" onclick="SetCookie('movie002_width','1024'); window.location.reload();">标准屏</a>｜<a href="#" id="movie002_width_2" onclick="SetCookie('movie002_width','1280');window.location.reload();">宽频</a></li>
 		</ul>
