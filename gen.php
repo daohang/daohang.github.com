@@ -1,6 +1,6 @@
 <?php
 
-$DH_input_html  = 'index.html.tpl';
+$DH_input_html  = 'index.tpl.html';
 $DH_output = dh_file_get_contents($DH_input_html);
 
 $DH_input_html  = 'site.xml';
