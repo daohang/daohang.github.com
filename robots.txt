@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:/gen.php
+
+Sitemap: http://www.movie002.com/sitemap.xml
