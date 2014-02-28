@@ -3,13 +3,25 @@
 <!-- generated-on="2013-11-22T10:22:15+00:00" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://www.movie002.com/</loc>
+		<loc>http://dh.movie002.com/</loc>
 		<lastmod>2013-11-22T10:22:15+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
-		<loc>http://www.movie002.com/index.html</loc>
+		<loc>http://dh.movie002.com/index.html</loc>
+		<lastmod>2013-11-22T10:22:15+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>http://dh.movie002.com/max.html</loc>
+		<lastmod>2013-11-22T10:22:15+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>1.0</priority>
+	</url>	
+	<url>
+		<loc>http://dh.movie002.com/message.html</loc>
 		<lastmod>2013-11-22T10:22:15+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>1.0</priority>

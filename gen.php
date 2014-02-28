@@ -2,6 +2,7 @@
 
 $DH_input_html  = 'index.tpl.html';
 $DH_output = dh_file_get_contents($DH_input_html);
+$DH_output3 = dh_file_get_contents($DH_input_html);
 
 $DH_input_html  = 'site.xml';
 $DH_output_site = dh_file_get_contents($DH_input_html);
@@ -13,12 +14,18 @@ foreach ($replacecontent1 as $key=>$eachrc)
 {
 	$DH_output = getcontent2($DH_output_site,$replacecontent1[$key],$replacecontent2[$key],$DH_output);
 	//$DH_output = str_replace("%content".$replacecontent1[$key].$replacecontent2[$key]."%",getcontent2($DH_output_site,$replacecontent1[$key],$replacecontent2[$key]),$DH_output);
+	$DH_output3 = getcontent3($DH_output_site,$replacecontent1[$key],$replacecontent2[$key],$DH_output3);
 }
 
 $DH_output = str_replace("%home%",'http://dh.movie002.com/',$DH_output);
+$DH_output3 = str_replace("%home%",'http://dh.movie002.com/',$DH_output3);
+$DH_output = str_replace("%cat%",'美观版本',$DH_output);
+$DH_output3 = str_replace("%cat%",'精简版本',$DH_output3);
 
-$DH_output_file = 'index.html';
+$DH_output_file = 'max.html';
 dh_file_put_contents($DH_output_file,$DH_output);
+$DH_output_file = 'index.html';
+dh_file_put_contents($DH_output_file,$DH_output3);
 
 function getcontent($DH_output_site)
 {
@@ -70,6 +77,24 @@ function getcontent2($DH_output_site,$r1,$r2,$DH_output)
 			$DH_output_content.='<li><div class="siteall"><img width="16" height="16" data-src="./images/6000.png"/> <a href="'.$match[4][$key].'" target="_blank" rel="nofollow">'.$match[5][$key].'</a></div><div class="hotmeta1">'.$match[6][$key].'</div></li>';
 		else
 			$DH_output_content.='<li><div class="siteall"><img width="16" height="16" data-src="'.$match[7][$key].'"/> <a href="'.$match[4][$key].'" target="_blank" rel="nofollow">'.$match[5][$key].'</a></div><div class="hotmeta1">'.$match[6][$key].'</div></li>';
+	}
+	//return $DH_output_content;
+	$DH_output = str_replace("%content".$r1.$r2."%",$DH_output_content,$DH_output);
+	$DH_output = str_replace("%".$r1.$r2."%",$count,$DH_output);
+	return $DH_output;
+}
+
+function getcontent3($DH_output_site,$r1,$r2,$DH_output)
+{
+	$ret = preg_match_all('/<r><1>('.$r1.')<\/1><2>('.$r2.')<\/2><3>(.*?)<\/3><4>(.*?)<\/4><5>(.*?)<\/5><6>(.*?)<\/6><7>(.*?)<\/7><8>(.*?)<\/8><\/r>/s',$DH_output_site,$match);
+	//print_r($match);
+
+	$DH_output_content='';
+	$count=0;
+	foreach ($match[0] as $key=>$eachmatch)
+	{
+		$count++;
+			$DH_output_content.='<li><div class="siteall"><a href="'.$match[4][$key].'" target="_blank" rel="nofollow">'.$match[5][$key].'</a></div><div class="hotmeta1">'.$match[6][$key].'</div></li>';
 	}
 	//return $DH_output_content;
 	$DH_output = str_replace("%content".$r1.$r2."%",$DH_output_content,$DH_output);
