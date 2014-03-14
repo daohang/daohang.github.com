@@ -465,7 +465,7 @@ code,pre{padding:0 3px 2px;font-family:Monaco,Menlo,Consolas,"Courier New",monos
 	
 .width_1{width: 1000px;}
 .width_2{width: 970px;} 
-.width_3{width: 696px;} 
+.width_3{width: 695px;} 
  
 #header {
     position: fixed;
@@ -490,11 +490,8 @@ code,pre{padding:0 3px 2px;font-family:Monaco,Menlo,Consolas,"Courier New",monos
 #content{
     float: left;
     margin-top: 10px;
-	margin-right: 5px;	
-}
-
-#content ul{
-	border: 1px solid #bbb;
+	margin-right: 5px;
+	border:1px solid #ccc;
 }
 
 .listcontent ul li{
