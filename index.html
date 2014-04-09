@@ -40,21 +40,7 @@
 						<li>影视 <a style="font-weight:700;color:rgb(160, 199, 211)" href="http://dh.movie002.com/" title="影视网址导航">网址导航</a>｜<a href="http://movie002.com/" title="影视资源导航">资源导航</a>｜<a href="http://dhblog.org" title="DH博客">站长博客</a>｜<a href="http://blog.movie002.com" title="影视速递">影视速递</a></li>
 						<li><a href="#" id="movie002_day_1" onclick="SetCookie('movie002_day','day');window.location.reload();">日间模式</a>｜<a href="#" id="movie002_day_2" onclick="SetCookie('movie002_day','night'); window.location.reload();">夜间模式</a></li>
 						<li><a href="#" id="movie002_width_1" onclick="SetCookie('movie002_width','1024'); window.location.reload();">标准屏</a>｜<a href="#" id="movie002_width_2" onclick="SetCookie('movie002_width','1280');window.location.reload();">宽频</a></li>
-					</ul>
-					<script type="text/javascript">
-						function a()  
-						{   
-							var n = new Date();
-							var h = n.getHours();
-							var m='';
-							if(h>=22||h<=6)
-							{
-								m='<div style="color:#000;border:1px solid #FF3300;font-size:12px;position: absolute;top:5px;left:450px;background:#FFFFDF;padding:2px;">友情提醒: 已经是'+h+'点多了，为了您的健康，请注意减少熬夜!</div>';
-							}
-							return m;
-						}
-						document.write(a());
-					</script>		
+					</ul>		
 				</div>
 			</div>	
 			<div id="global_nav">
@@ -82,6 +68,20 @@
 						</div>
 					</div>
 				</div>
+				<script type="text/javascript">
+					function a()  
+					{   
+						var n = new Date();
+						var h = n.getHours();
+						var m='';
+						if(h>=22||h<=6)
+						{
+							m='<div style="color:#000;border:1px solid #FF3300;font-size:12px;position: absolute;top:10px;right:20px;background:#FFFFDF;padding:2px;">友情提醒: 已经是'+h+'点多了，为了您的健康，请注意减少熬夜!</div>';
+						}
+						return m;
+					}
+					document.write(a());
+				</script>				
 			</div>
 			</div>
 		</div>
@@ -415,7 +415,7 @@
 	</div>	
 	<!-- wrapper -->
 	<script type="text/javascript">
-	eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('5 17(){2 r=1f 1n();2 h=r.1m();2 m=r.1o();2 s=r.1l();m=C(m);s=C(s);4.I(\'1k\').J=h+":"+m+":"+s;t=1p(\'17()\',1D)};5 C(i){l(i<10){i="0"+i}1r i};5 1t(){2 3=4.x(\'c\');P(2 i=0;i<3.R;i++){2 F=3[i].6(\'1u-7\');l(F!=O)3[i].1w(\'7\',F)}};4.1c("X");5 1A(){2 3=4.x(\'X\');P(2 i=0;i<3.R;i++){2 v=3[i].6(\'v\');2 w=3[i].6(\'w\');2 f=3[i].6(\'f\');2 k=3[i].6(\'k\');2 y=k;2 b=3[i].6(\'b\');2 u=3[i].6(\'u\');l(u!=O){y=3[i].6(\'y\');j[\'c\'+i]=\'<K><B><1q 1e-1s="1x-1y" 1E="Z/K; 1C=1B-8"></B><9 L="0" S="0" d="1z-1F:1h"><a T="\'+v+\'" 12="U"><c d="13:A;p:\'+f+\';o:\'+k+\';" 7="\'+w+\'" b="\'+b+\'的图片" W="V"/></a><N d="1g-1i:1j;Z-1v:1M;">\'+u+\'</N></9></K>\'}Q{j[\'c\'+i]=\'<9 L="0" S="0"><a T="\'+v+\'" 12="U"><c d="13:A;p:\'+f+\';o:\'+k+\';" 7="\'+w+\'" b="\'+b+\'的图片" W="V"/></a></9>\'}2 Y=3[i].21;Y.J=\'<z 18="15" 7="1Z:25[\\\'c\'+i+\'\\\'];" 1b="0" 16="19" p="\'+f+\'" o="\'+y+\'"></z>\'}};                     5 24(H,G){    M{        j.26.28(G,H);    }    14(e){        M{            j.27.29(H,G,"");        }        14(e){            1X("抱歉，您所使用的浏览器无法完成此操作。\\n\\n加入收藏失败，请使用1Y+D进行添加");        }    }};5 1N(){2 1d=1d||[];(5(){2 g=4.1c("1L");g.7="//g.1K.1H/g.1I?1J";(4.x(\'9\')[0]||4.x(\'B\')[0]).1P(g)})()}5 1V(){2 q=4.I(\'q\');q.J=\'<z 1W="q" 18="15" p="1U%" o="1T" 7="1e://1R.0.0.1/1S/22.1Q" 1b="0" 16="19" ></z>\'}j.1O=5(){2 h=4.9.11;l(!h)h=4.20.11;2 E=4.I(\'1G\');l(h>0){E.d.1a=\'23\'}Q{E.d.1a=\'A\'}};',62,134,'||var|imgTags|document|function|getAttribute|src||body||alt|img|style||src_width|hm|||window|src_height|if|||height|width|iframe_say|today|||name|link_src|img_src|getElementsByTagName|frm_height|iframe|none|head|checkTime||top|imgSrc|url|title|getElementById|innerHTML|html|leftmargin|try|div|null|for|else|length|topmargin|href|_blank|nofollow|rel|imgdao|clilddiv|text||scrollTop|target|border|catch|true|scrolling|startTime|allowtransparency|no|display|frameBorder|createElement|_hmt|http|new|font|transparent|size|12px|txt|getSeconds|getHours|Date|getMinutes|setTimeout|meta|return|equiv|loadimg|data|align|setAttribute|Content|Type|background|showImgs|UTF|charset|500|content|color|goTopButton|com|js|b3e266da506226dbaa921d5d4e1e69b2|baidu|script|center|baidutongji|onscroll|appendChild|php|127|db|16px|90|dhsay|id|alert|Ctrl|javascript|documentElement|firstChild|dh_say|block|AddFavorite|parent|external|sidebar|addFavorite|addPanel'.split('|'),0,{}))
+	eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('5 18(){2 r=1g 1o();2 h=r.1n();2 m=r.1p();2 s=r.1m();m=E(m);s=E(s);4.J(\'1l\').K=h+":"+m+":"+s;t=1q(\'18()\',1E)};5 E(i){l(i<10){i="0"+i}1s i};5 1u(){2 3=4.y(\'c\');Q(2 i=0;i<3.S;i++){2 G=3[i].6(\'1v-7\');l(G!=P)3[i].1x(\'7\',G)}};4.1d("Y");5 1B(){2 3=4.y(\'Y\');Q(2 i=0;i<3.S;i++){2 w=3[i].6(\'w\');2 x=3[i].6(\'x\');2 f=3[i].6(\'f\');2 k=3[i].6(\'k\');2 z=k;2 b=3[i].6(\'b\');2 u=3[i].6(\'u\');l(u!=P){z=3[i].6(\'z\');j[\'c\'+i]=\'<L><C><1r 1f-1t="1y-1z" 1F="11/L; 1D=1C-8"></C><9 M="0" T="0" d="1A-1G:1i"><a U="\'+w+\'" 13="V"><c d="14:B;p:\'+f+\';o:\'+k+\';" 7="\'+x+\'" b="\'+b+\'的图片" X="W"/></a><O d="1h-1j:1k;11-1w:1N;">\'+u+\'</O></9></L>\'}R{j[\'c\'+i]=\'<9 M="0" T="0"><a U="\'+w+\'" 13="V"><c d="14:B;p:\'+f+\';o:\'+k+\';" 7="\'+x+\'" b="\'+b+\'的图片" X="W"/></a></9>\'}2 Z=3[i].22;Z.K=\'<A 19="16" 7="21:1Z[\\\'c\'+i+\'\\\'];" 1c="0" 17="1a" p="\'+f+\'" o="\'+z+\'"></A>\'}};                     5 24(I,H){    N{        j.26.28(H,I);    }    15(e){        N{            j.29.27(I,H,"");        }        15(e){            1X("抱歉，您所使用的浏览器无法完成此操作。\\n\\n加入收藏失败，请使用1Y+D进行添加");        }    }};5 1O(){2 1e=1e||[];(5(){2 g=4.1d("1M");g.7="//g.1L.1I/g.1J?1K";(4.y(\'9\')[0]||4.y(\'C\')[0]).1Q(g)})()}5 1V(){2 q=4.J(\'q\');q.K=\'<A 1W="q" 19="16" p="1U%" o="1T" 7="1f://1S.0.0.1/v/23.1R" 1c="0" 17="1a" ></A>\'}j.1P=5(){2 h=4.9.12;l(!h)h=4.25.12;2 F=4.J(\'1H\');l(h>0){F.d.1b=\'20\'}R{F.d.1b=\'B\'}};',62,134,'||var|imgTags|document|function|getAttribute|src||body||alt|img|style||src_width|hm|||window|src_height|if|||height|width|iframe_say|today|||name||link_src|img_src|getElementsByTagName|frm_height|iframe|none|head||checkTime|top|imgSrc|url|title|getElementById|innerHTML|html|leftmargin|try|div|null|for|else|length|topmargin|href|_blank|nofollow|rel|imgdao|clilddiv||text|scrollTop|target|border|catch|true|scrolling|startTime|allowtransparency|no|display|frameBorder|createElement|_hmt|http|new|font|transparent|size|12px|txt|getSeconds|getHours|Date|getMinutes|setTimeout|meta|return|equiv|loadimg|data|align|setAttribute|Content|Type|background|showImgs|UTF|charset|500|content|color|goTopButton|com|js|b3e266da506226dbaa921d5d4e1e69b2|baidu|script|center|baidutongji|onscroll|appendChild|php|127|16px|90|dhsay|id|alert|Ctrl|parent|block|javascript|firstChild|dh_say|AddFavorite|documentElement|external|addPanel|addFavorite|sidebar'.split('|'),0,{}))
 
 	eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('b h(4,d){8(4.6=="a")g;c 3=4.j.k;c 5=1.2(3).m("f");l(i=0;i<5.n;i++){8(i==d){4.6="a";1.2(3+"7"+i).e.9="A"}x{5[i].6="o";1.2(3+"7"+i).e.9="z"}}};w.v=b(){1.2(\'q\').p();r();s();u();t();y()};',37,37,'|document|getElementById|tabObj|thisObj|tabList|className|_Content|if|display|active|function|var|Num|style|li|return|nTabs||parentNode|id|for|getElementsByTagName|length|normal|focus|submittext|startTime|loadimg|dhsay|showImgs|onload|window|else|baidutongji|none|block'.split('|'),0,{}))
 	
