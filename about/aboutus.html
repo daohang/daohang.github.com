@@ -1,0 +1,249 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>影粉搜搜-关于我们</title>
+    <link rel='canonical' href='http://yfsoso.com/about/aboutus.html'/>
+	<meta name="keywords" content="影粉搜搜-关于我们" />
+	<meta name="description" content="影粉搜搜-关于我们" />
+	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"/>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+	<meta http-equiv="Content-Language" content="zh-CN"/>
+	<link rel="stylesheet" type="text/css" media="all" href="../css/style.css"/>
+	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
+    <script type="text/javascript">
+	function SetCookie(name,value)//两个参数，一个是cookie的名子，一个是值
+	{
+		var Days = 30; //此 cookie 将被保存 30 天
+		var exp = new Date();    //new Date("December 31, 9998");
+		exp.setTime(exp.getTime() + Days*86400000);
+		document.cookie = name + "="+ escape (value) + ";expires=" + exp.toGMTString()+ "; path=/";
+	};
+	function DelCookie(name)
+
+	{
+		var exp = new Date();
+		exp.setTime(exp.getTime()-10000);
+        var cval=getCookie(name);
+        if(cval!=null)
+    		document.cookie = name + "="+ cval + ";expires=" + exp.toGMTString()+"; path=/";
+	};
+	function getCookie(name)//取cookies函数        
+	{
+		var arr = document.cookie.match(new RegExp("(^| )"+name+"=([^;]*)(;|$)"));
+		 if(arr != null) return unescape(arr[2]); return null;
+	};
+	var movie002_day =  getCookie("movie002_day");
+	if(movie002_day==null)
+	{
+		var now = new Date();
+		var hour = now.getHours();
+		if(hour>=21||hour<=5)
+			movie002_day='night';
+		else
+			movie002_day='day';
+	}
+	var style_need="";
+	if(movie002_day=='night')
+	{
+		style_need +='#wrapper{background:#383838;border:1px solid #B6AA7B}';
+		style_need +='body{background:#383838;color:#B6AA7B}';
+		style_need +='a{color:#B6AA7B;background:transparent}';
+		style_need +='a:visited {color:#447FA8;}';
+	//	style_need +='.order{background:url(%home%images/logonight_8.gif) no-repeat;}';
+		style_need +='#service_list{background:#383838;}';
+		style_need +='#global_nav{background:#383838;}';
+		style_need +='#topics-wrapper{border:none;}';
+		style_need +='.moviemeta,.celeimg_name,.colormeta{color:#999}';
+		style_need +='.post-topic-area{color:#999}.post-topic-area:hover{color:#bbb}';
+		style_need +='.moviedate{color:#D04230}';
+		style_need +='.titlecontent,.entry a {color:#bbb}';
+		style_need +='.entry h4,.entry li{color:#B6AA7B;background:none}';
+		style_need +='#movie002_day_2{font-weight:700}';
+		style_need +='#movie002_day_1{font-weight:normal}';
+		style_need +='#article_index{background:none}';
+		style_need +='.searchinput,.searchinput:focus{background:#383838;color:#B6AA7B;}';
+		style_need +='.topnav li a, .topnav li a:link, .topnav li a:visited{color:#B6AA7B;}';
+		style_need +='.topnav li li a, .topnav li li a:link, .topnav li li a:visited,.topnav li a:hover,.topnav li a:active{background:#383838;}';
+		style_need +='.topnav li a:hover,.topnav li li a:hover{background:#52686F;color:#fff}';
+		style_need +='.listall,.sidebar_content ul li,.topic_list ol li,.col2,.col3,.col4,.col5,.col6,.bb{border-bottom:1px solid #888}';
+		style_need +='.br{border-right:1px solid #888}';
+		style_need +='#content,#comment,#sidebar,.topics-wrapper{border: 1px solid #888;}';	
+	}
+
+	var movie002_width =  getCookie("movie002_width");
+	if(movie002_width==null)
+	{
+		if(window.screen.width >=1280)
+			movie002_width='1280';
+		else
+			movie002_width= '1024';
+	}
+	if(movie002_width=='1280')
+	{
+		style_need += ' .width_1{width: 1080px;}';
+		style_need += ' .width_2{width: 1050px;}';
+		style_need += ' .width_3{width: 830px;}';
+		style_need +=' #movie002_width_2{font-weight:700}';
+		style_need +=' #movie002_width_1{font-weight:normal}';
+		style_need +=' a.gotop_btn{margin-left:540px';	
+	}
+	if(style_need!=null)
+	{
+		style_need = '<style type="text/css">'+style_need+'</style>';
+		//alert(style_need);
+		document.write(style_need);
+	}
+	</script>
+</head>
+<body>
+	<div id="wrapper" class="width_1">
+		<div id="header">
+			<div id="service_list">
+				<div id="service_list_inner" class="width_1">
+					<div style="position:absolute;top:6px;left:15px;font-size:18px;font-weight:700"><a href="http://s.yfsoso.com">影粉搜搜(YFSOSO)</a></div>
+					<div id="sub_date">
+						<script type="text/javascript">			
+							function s()  
+							{   
+								var a = new Date();
+								var b = a.getFullYear();
+								var c = a.getMonth()+1; 
+								var d = a.getDate();
+								var	e = a.getDay();
+								var f = new Array("天","一","二","三","四","五","六");					
+								return b+"年"+c+"月"+d+"日 星期"+f[e];   
+							}
+							document.write(s());				
+						</script>
+						<span id="txt"></span>
+					</div>
+					<ul>
+						<li><a href="#" id="movie002_day_1" onclick="SetCookie('movie002_day','day');window.location.reload();">日间模式</a>｜<a href="#" id="movie002_day_2" onclick="SetCookie('movie002_day','night'); window.location.reload();">夜间模式</a></li>
+						<li><a href="#" id="movie002_width_1" onclick="SetCookie('movie002_width','1024'); window.location.reload();">标准屏</a>｜<a href="#" id="movie002_width_2" onclick="SetCookie('movie002_width','1280');window.location.reload();">宽频</a></li>
+						<li><a href="http://s.x2y4.com/siteindex.html" target="_blank">索引</a>｜<a href="http://s.x2y4.com/siteindex.html" target="_blank">地图</a></li>
+					</ul>
+				</div>
+			</div>
+			<div id="global_nav">
+				<div id="global_nav_inner" class="width_1">
+					<div style="margin-top:10px;font-weigh:777;font-size:16px">关于本站的简单介绍</div>
+				</div>					
+			</div>
+	<!-- header-inner -->			
+	</div>
+		<!-- header -->
+		<div id="middle" class="width_2" style="min-height:600px;_height:600px;">
+			<div id="content" style="padding:0 20px;font-size:12px;width:95%">
+			    <pre style="white-space: pre-wrap;word-wrap: break-word;" class="pre">
+<b>为什么要有本网站？</b>	
+   对一个电影爱好者来所，影视资源对其非常重要，但是随着海量的资源不断的侵蚀着网络世界，寻找相关的电影资源显得简单而又复杂，不可避免地需要从众多的资源中挑选和排除。这将会花费不少时间。所以，由于需求的存在，二手电影网便存在了。二手电影网是建立在无数的资源网站上的资源搜集和整理平台，显而易见，如果这些资源网站消失了，我们的网站也没有意义了。
+   		
+<b>我们能提供什么？</b>
+   1.尽量能收集和提供影视相关内容的信息、资源链接，尽量全的展现给用户一部电影资源的全部信息。
+   2.对于海量的资源，帮你寻找、帮你搜索；帮你整理、帮你纠错；帮你排序、帮你去除。
+   2.利用链接到相关网站的方式，不侵犯内容提供网站的权利。
+   3.尽量保持更新快、扑捉热点快的优势。	
+   
+<b>我们的团队</b>
+   我们是一群志同道合，也许从未谋面的爱好者，每一个本站的贡献者的都是她的一份子。
+   
+<b>联系方式</b>
+   见底部
+   
+<b>发展历程</b>
+   2015年3月 影粉搜搜上线上线,http://yfsoso.com。
+   2014年6月 设计影粉搜搜网。
+
+只要你登陆过这里,哪怕只是一次,这也是对我们莫大的支持!
+也许这里你并未获得你想要的资源，但下次也许你会有惊喜！
+	    		</pre>
+			</div>
+		<!-- middle -->
+		<div id="footer" style="bottom:0;width:100%;">
+			<a href="#top" title="顶部" class="gotop_btn gotop_btn_up" id="goTopButton">∧</br>顶部</a>
+			<div id="footer-nav">
+				<a href="/about/aboutus.html">关于我们</a> | 	
+				<a href="/about/talk.html">留言反馈</a> | 
+				<a href="/about/mianze.html">免责声明</a> | 
+				<a href="javascript:void(0);" onclick="AddFavorite('影粉搜搜','http://yfsoso.com')">收藏本站</a>
+			</div>
+			<div class="cpright colorlittle">
+			© 2015 - 2018 &nbsp;<a href="http://s.yfsoso.com" title="电影大全,电视剧大全">影粉搜搜网</a> &nbsp;All Rights Reserved <a href="http://www.miibeian.gov.cn" target="_blank">免备案</a>
+			</div>
+			<div style="margin:7px;color:#777">
+			本站旨在影视宣传和学习交流,所有内容程序自动收集发布,仅提供资源页面的搜索链接，如侵犯了您的权益,请联系我们删除:a#yfsoso.com,欢迎举报违法问题！
+			</div>
+		</div>
+	</div>
+	<!-- wrapper -->
+	<script type="text/javascript">
+	function startTime()
+	{
+		var today=new Date();
+		var h=today.getHours();
+		var m=today.getMinutes();
+		var s=today.getSeconds();
+		// add a zero in front of numbers<10
+		m=checkTime(m);
+		s=checkTime(s);
+		document.getElementById('txt').innerHTML=h+":"+m+":"+s;
+		t=setTimeout('startTime()',500);
+	};
+	function checkTime(i)
+	{
+		if (i<10) 
+		  {i="0" + i;}
+		  return i;
+	};
+			                     
+	//收藏本站
+	function AddFavorite(title, url) {
+	    try {
+	        window.external.addFavorite(url, title);
+	    }
+	    catch (e) {
+	        try {
+	            window.sidebar.addPanel(title, url, "");
+	        }
+	        catch (e) {
+	            alert("抱歉，您所使用的浏览器无法完成此操作。\n\n加入收藏失败，请使用Ctrl+D进行添加");
+	        }
+	    }
+	};
+
+	function cnzz()
+	{
+		(function() {
+			var cnzz = document.createElement('script');
+			cnzz.type = 'text/javascript';
+			cnzz.src = 'http://s22.cnzz.com/z_stat.php?id=1254506275&web_id=1254506275';
+			(document.getElementsByTagName('body')[0]
+			||document.getElementsByTagName('head')[0]).appendChild(cnzz);
+		})();
+	};
+
+	window.onscroll = function()
+	{
+		var h =document.body.scrollTop;
+		if(!h)
+			h=document.documentElement.scrollTop;
+		var top = document.getElementById('goTopButton');
+		if(h>0)
+		{
+			top.style.display = 'block';
+		}
+		else
+		{
+			top.style.display = 'none';
+		}
+	};
+
+	window.onload = function ()
+	{
+		// 公共的函数
+		startTime();
+		 cnzz();
+	};
+	</script>	
+</body>
+</html>
